@@ -1,0 +1,3261 @@
+[
+  {
+    "id": "q001",
+    "q": "An important part of the project scope statement is exclusions or out of scope items.(NHUNG HOÀNG) True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q002",
+    "q": "The network diagram can be used to:(NHUNG HOÀNG) Control the cost performance of the project Show project schedule performance over time Identify project resource requirements Help to identify riskier activities Help to justify project quality metrics",
+    "choices": [
+      "Control the cost performance of the project",
+      "Show project schedule performance over time",
+      "Identify project resource requirements",
+      "Help to identify riskier activities"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q003",
+    "q": "You are scheduling an activity which involves a government agency. What type of dependency are you working on?(NHUNG HOÀNG)",
+    "choices": [
+      "Discretionary",
+      "Internal",
+      "Mandatory",
+      "External"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q004",
+    "q": "In our lessons the acronym RAM stands for:(NHUNG HOÀNG)",
+    "choices": [
+      "Responsibility Accountability Matrix",
+      "Responsibility Assignment Matrix",
+      "Resource Acquisition Management",
+      "Resource Aligned Management"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q005",
+    "q": "The purpose of capturing lessons learned is:(NHUNG HOÀNG)",
+    "choices": [
+      "To show that you are following project management best practices and therefore you are a superior project manager.",
+      "To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better.",
+      "To document who performed well on the project and who did not so that poor performers can be punished.",
+      "To show stakeholders how difficult the project was so that next time their demands will not be so high."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q006",
+    "q": "The work breakdown structure can best be thought of as an effective aid for _____ communications.(NHUNG HOÀNG)",
+    "choices": [
+      "Stakeholders",
+      "Team",
+      "Project manager",
+      "Customer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q007",
+    "q": "The WBS is used to derive all but one of the following:",
+    "choices": [
+      "The project schedule baseline",
+      "The business need for the project",
+      "The project cost performance baseline",
+      "The activity list"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q008",
+    "q": "Which one is not included in the Scope Baseline?(NHUNG HOÀNG)",
+    "choices": [
+      "Scope Statement",
+      "WBS",
+      "WBS dictionary",
+      "Project Documents Updates."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q009",
+    "q": "Upward communication is communication to/from:(NHUNG HOÀNG)",
+    "choices": [
+      "Your senior management.",
+      "Your social groups.",
+      "Your peers.",
+      "Your direct reports."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q010",
+    "q": "Which of the following is NOT likely to be documented in a communications management plan?(NHUNG HOÀNG)",
+    "choices": [
+      "Person responsible for tracking risk events",
+      "Time frame and frequency of communication",
+      "How information will be communicated",
+      "What information will be communicated"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q011",
+    "q": "Which of the following is NOT the disadvantage of bottom-up estimating?",
+    "choices": [
+      "Takes time and money to use this estimating technique",
+      "Does not gain buy-in from the team",
+      "Requires time to break the project down into smaller pieces",
+      "Requires that the project be defined and well understood before estimating begins"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q012",
+    "q": "Which of the items below do you think belong in the cost management plan?",
+    "choices": [
+      "Resource Allocation Guidelines",
+      "Performance Appraisal Guidelines",
+      "Procedures for Determining Quality Costs",
+      "Project Budget Reporting Guidelines"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q013",
+    "q": "True or False: When you are concerned that your estimates might not be correct, especially if you think they are too low, you should pad the estimate and add extra.(NHUNG HOÀNG) a. False b. True",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q014",
+    "q": "As you plan your project, the sponsor informed you that all team members will be assigned to your project for at most 50% of their available time. This is an example of:(NHUNG HOÀNG)",
+    "choices": [
+      "Poor planning",
+      "Wishful thinking",
+      "A project demand",
+      "A constraint"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q015",
+    "q": "We discussed four types of organization structures, they are:",
+    "choices": [
+      "Weak, Medium, Strong and Projectized",
+      "Functional, Matrix-Based, Projectized and Composite",
+      "Weak, Balanced, Strong and Projectized",
+      "Functional, Weak, Strong and Composite"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q016",
+    "q": "Which of the following is NOT the advantages of top-down estimating?",
+    "choices": [
+      "Quick",
+      "Less costly to create",
+      "Activities do not need to be identified",
+      "More accurate"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q017",
+    "q": "True or False. The Project Charter is a document issued by the project initiator or sponsor that formally authorizes the existence of a project. It provides the project manager with the authority to apply organizational resources to project activities.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q018",
+    "q": "True or False: A Project is defined as being unique and temporary, with an undefined start and finish.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q019",
+    "q": "True or False: The Crashing is the approach to re-plan the work and try to perform more overlapping sequential activities to be in parallel.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q020",
+    "q": "You have finished planning and have begun executing the project when the client asks if you would shorten the project duration so that the project can finish 2 weeks earlier than the original plan. How are the triple constraints affected?",
+    "choices": [
+      "Scope and cost may both be affected B Neither scope nor cost will be affected in any situation",
+      "Cost will reduce as the project duration is shortened and scope is not changed",
+      "There is no relevant option except the project must be cut down on scope"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q021",
+    "q": "You have finished planning and have begun executing the project when the client asks if you would add some important features to the product of the project. How are the triple constraints affected?",
+    "choices": [
+      "Time and cost may both be affected",
+      "Scope and quality would be affected but not cost",
+      "Cost must remain constant because resources are limited",
+      "Adding features will require additional cost but not time"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q022",
+    "q": "When you report project status you compare actual performance to.",
+    "choices": [
+      "The performance of your competitors.",
+      "The performance of previous projects.",
+      "The performance of other similar projects.",
+      "The planned performance or baseline"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q023",
+    "q": "True or False: The Project Budget is equal to only the Cost Baseline budget.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q024",
+    "q": "True or False: The Project Budget is equal to the Cost Baseline budget plus Management Reserve.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q025",
+    "q": "True or False: A negative risk is an opportunity, a positive risk is a threat.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q026",
+    "q": "Which of the following is NOT the output of Plan Scope Management process? (Choose 2 answers)",
+    "choices": [
+      "Scope Management Plan",
+      "Requirement Management Plan",
+      "Cost Management Plan",
+      "Quality Management Plan"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q027",
+    "q": "Which of the following is NOT the output of Plan Scope Management process? (Choose 2 answers)",
+    "choices": [
+      "Scope Management Plan",
+      "Requirement Management Plan",
+      "Time Management Plan",
+      "Cost Management Plan"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q028",
+    "q": "Which of the following is NOT the output of Plan Scope Management process? (Choose 2 answers) (NHUNG HOÀNG)",
+    "choices": [
+      "Scope Management Plan",
+      "Requirement Management Plan",
+      "Quality Management Plan",
+      "Time Management Plan"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q029",
+    "q": "The client demands changes to the product specification that will add only two weeks to the critical path. (NHUNG HOÀNG) Which of the following is the best thing for the project manager to do?",
+    "choices": [
+      "Compress the schedule to recover the two weeks.",
+      "Cut scope to recover the two weeks.",
+      "Consult with the sponsor before taking any action.",
+      "Refuse to change the plans."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q030",
+    "q": "Which of the following best describes a project management plan?",
+    "choices": [
+      "Scope, risk, resource and other management plan",
+      "A project schedule",
+      "A printout from project management software",
+      "A bar chart"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q031",
+    "q": "Which of the following best describes a project management plan?",
+    "choices": [
+      "A printout from project management software",
+      "A bar chart",
+      "Risk, human resource, process improvement, and other management plans",
+      "The project scope"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q032",
+    "q": "As discussed in the Project Management course, The PMBOK® Guide process group that has processes in all 10 knowledge areas is:",
+    "choices": [
+      "Executing",
+      "Closing",
+      "Initiating",
+      "Planning"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q033",
+    "q": "As discussed in the Project Management course, The PMBOK® Guide describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
+    "choices": [
+      "Stakeholder, Communication, Human Resource",
+      "Stakeholder, Vendor, Customer",
+      "Risk, Human Resource, Vendor",
+      "Procurement, Communication, Customer"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q034",
+    "q": "As discussed in the Project Management course, The PMBOK® Guide knowledge area that has processes in all 5 process groups is:",
+    "choices": [
+      "Project Integration Management",
+      "Project Cost Management",
+      "Project Scope Management",
+      "Project Time Management"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q035",
+    "q": "Consider a scenario in which you learn that your project is running two weeks behind schedule. How would you know if it is acceptable to be two weeks late?",
+    "choices": [
+      "Ask your executive management team",
+      "If the schedule baseline shows you are two weeks late, then it is not acceptable",
+      "If the team tells you the work cannot be completes any earlier than it is acceptable",
+      "Your variance thresholds should be documented in your project management plan, look there for guidance."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q036",
+    "q": "The discipline of quality management complements the discipline of project management. Both recognize all but one of the following:",
+    "choices": [
+      "Management satisfaction",
+      "Prevention over inspection",
+      "Continuous improvement",
+      "Management responsibility"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q037",
+    "q": "The discipline of quality management complements the discipline of project management. Both recognize all but one of the following:",
+    "choices": [
+      "Customer satisfaction",
+      "Project team responsibility"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q038",
+    "q": "Which one is not in the five project management process groups as described in the PMBOK® Guide?",
+    "choices": [
+      "Closing",
+      "Initiating",
+      "Planning",
+      "Monitoring and controlling"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q039",
+    "q": "[No question text parsed]",
+    "choices": [
+      "company is making an effort to improve its project performance and create historical records of past projects. What is the best way to accomplish this?",
+      "Create lessons learned",
+      "Create progress reports",
+      "Create status reports D Create project management plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q040",
+    "q": "All the following are parts of an effective change management plan EXCEPT:",
+    "choices": [
+      "Procedures",
+      "Lessons learned",
+      "Standards for report",
+      "Meeting"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q041",
+    "q": "Scope creep results in:",
+    "choices": [
+      "Completion delays, escalation of costs, and increase in project complexity",
+      "On-time deliverables, escalation of costs, and increase in project complexity",
+      "Completion delays, decrease in costs, and increase in project complexity",
+      "Completion delays, escalation of costs, and decrease in project complexity"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q042",
+    "q": "To calculate late finish (LF) of an activity which has only one successor, you will",
+    "choices": [
+      "Take the late start of its immediate successor.",
+      "Take the early start of its immediate successor.",
+      "Take the late finish of its immediate successor.",
+      "Take the early finish of its immediate successor."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q043",
+    "q": "To calculate late finish (LF) of an activity which has more than one successor, you will",
+    "choices": [
+      "Take the earliest early finish of its immediate successors.",
+      "Take the earliest late finish of its immediate successors.",
+      "Take the earliest early start of its immediate successors.",
+      "Take the earliest late start of its immediate successors."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q044",
+    "q": "When you have good historical information which can be used in a reliable formula or model, you will probably use:",
+    "choices": [
+      "Parametric estimating",
+      "Exact estimating",
+      "Analogous estimating",
+      "Bottoms up estimating"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q045",
+    "q": "True or False: Project Human Resource Management includes the processes that define the tasks and assign them to suitable resources, and motivate project team to complete the tasks.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q046",
+    "q": "True or False: Project Human Resource Management includes the processes that organize, manage, and lead the project team.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q047",
+    "q": "The triple constraint are___(NHUNG HOÀNG)",
+    "choices": [
+      "Scope, Cost, Time",
+      "Scope, Performance, Time",
+      "Scope, Quality, Cost",
+      "Scope, Performance, Cost"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q048",
+    "q": "The three components of the triple constraint are:(NHUNG HOÀNG)",
+    "choices": [
+      "Scope, Cost, Time",
+      "Scope, Quality, Cost",
+      "Scope, Performance, Cost",
+      "Scope, Performance, Time"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q049",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager checks his project status by applying earned value management technique and he got the CPI of his project is 150% AND SPI of his project is 90%. Which of following is a suitable description for his project status? (NHUNG HOÀNG)",
+      "The project is ahead of the schedule and under the budget",
+      "The project is behind the schedule and under the budget",
+      "The project is ahead of the schedule and over the budget",
+      "The project is behind the schedule and over the budget"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q050",
+    "q": "Which of the following is NOT true regarding milestones?",
+    "choices": [
+      "They are some points in time which have no duration",
+      "They are completely defined in the project charter",
+      "Identify major events of the project deliverables",
+      "They are supported by activities on detail schedules"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q051",
+    "q": "You are the project manager of the large project and you are requesting your team members to create the work breakdown structure. Some of team members are angry that you are asking them to do \"extra work\". Which of the following is the best thing you could tell the members to convince them to use work breakdown structure?",
+    "choices": [
+      "Work breakdown structure is the only way to identify risks",
+      "Work breakdown structure is of greater value on large project",
+      "Work breakdown structure is best when the project involves contracts",
+      "Work breakdown structure will prevent work from slipping through the cracks"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q052",
+    "q": "You are assigned as the project manager in the middle of the project. The project is within the baseline, but the customer is not happy with the performance of the project. What is the first thing you should do?",
+    "choices": [
+      "Discuss it with the project team",
+      "Recalculate baselines",
+      "Renegotiate the contract",
+      "Meet with the customer"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q053",
+    "q": "Which of the following is the most correct statement regarding management and contingency reserves?",
+    "choices": [
+      "Both of them are included into the cost budget of the project.",
+      "Both of them are not included into the cost budget of the project.",
+      "Management reserve is included into the cost budget but contingency reserve is not",
+      "Contingency reserve is included into the cost budget but management reserve is not."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q054",
+    "q": "True or False: The Forward Pass is used through the activities to determine the critical path & available float of the project.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q055",
+    "q": "Your project team is customer focused and often agrees to incorporate many small scope changes throughout the project execution. The changes are documented in an issues log. Which of the following is not a potential problem?",
+    "choices": [
+      "Management of product specifications and configuration become more difficult.",
+      "Many small changes may accumulate to create trouble for one of the project objectives.",
+      "Changes may not be integrated across the whole project",
+      "Changes with impacts on cost or time will be elevated to the Change Control Board."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q056",
+    "q": "Project scope differs from product scope in that:",
+    "choices": [
+      "Project scope is the work that needs to be accomplished to deliver a product, service, or result.",
+      "Project scope completion is measured against the features, functions, and product requirements.",
+      "Product scope completion is measured against the project management plan including all subsidiary plans.",
+      "Product scope is the work that needs to be accomplished to complete a project"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q057",
+    "q": "Your Schedule Performance Index (SPI) is lesser than 1 means you are:",
+    "choices": [
+      "on schedule.",
+      "behind schedule.",
+      "ahead of schedule."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q058",
+    "q": "Your Schedule Performance Index (SPI) is greater than 1 means you are:",
+    "choices": [
+      "behind schedule.",
+      "on schedule.",
+      "ahead of schedule."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q059",
+    "q": "After sequencing tasks in a project, you get this activity network diagram, which is its duration by applying critical path analysis.(NHUNG HOÀNG)",
+    "choices": [
+      "9 weeks",
+      "19 weeks",
+      "12 weeks",
+      "11 weeks"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q060",
+    "q": "True or False: Earned value integrates quality, scope and schedule and uses monetary values to assess project status.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q061",
+    "q": "All of the following are parts of the scope baseline EXCEPT the:",
+    "choices": [
+      "Scope management plan",
+      "Project scope statement",
+      "Work breakdown structure",
+      "Work breakdown structure dictionary"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q062",
+    "q": "True or False: The best organization to use to run a project will always be the projectized organization.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q063",
+    "q": "The project manager has just received a change request from the customer that does not affect the project schedule and is easy to complete. What should the project manager do FIRST?",
+    "choices": [
+      "Make the change happen as soon as possible",
+      "Contact the project sponsor for permission",
+      "Go to the change control board",
+      "Evaluate the impacts on other project constraints"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q064",
+    "q": "True or False: The critical path is the shortest path through the network and represents the work that can be delayed without delaying the end of the project",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q065",
+    "q": "All of the following are inputs to estimating activity durations except:",
+    "choices": [
+      "Organizational process assets",
+      "Activity list and activity attributes",
+      "Requirements specifications",
+      "Resource calendars and scope statement"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q066",
+    "q": "All of the following are inputs to estimating activity durations except:",
+    "choices": [
+      "Enterprise Environmental Factors & Organizational Process Assets",
+      "Risk Register & Scope Statement",
+      "Project Documents Updates & Requirements Specifications",
+      "Resource Calendars & Resource Breakdown Structure"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q067",
+    "q": "Which of the components below do you think NOT belong in the cost management plan? A Units of measure",
+    "choices": [
+      "Eamed value rules",
+      "Control thresholds",
+      "RACI matrix"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q068",
+    "q": "Considering a situation in which you need to share an important announcement with your project team. Select the best communication option for the scenario:",
+    "choices": [
+      "Send them an instant message with the high-level details of the announcement.",
+      "Invite them to a quick meeting to share the announcement and then follow-up.",
+      "Send a detailed email with tracking turned on so that you know who opened the email and who did not",
+      "Create a poster which describes the announcement and hang a copy or two in the areas most frequented by your team members.; B\"\""
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q069",
+    "q": "True or False: Product quality focuses on the goods and services.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q070",
+    "q": "Which of the following is NOT the disadvantages of top-down estimating?",
+    "choices": [
+      "Costly to create",
+      "Less accurate",
+      "Requires considerable experience to do well",
+      "Does not take into account the differences between projects"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q071",
+    "q": "You just came from a meeting with one of your project stakeholders, he knew about your project and also its potential impacts, and he always supported for the work and its outcomes. How would you classify him?",
+    "choices": [
+      "Supportive",
+      "Neutral",
+      "Unaware",
+      "Leading"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q072",
+    "q": "You just came from a meeting with one of your project stakeholders, he knew about your project and was not against it, but did not seem to be particularly interested in it either. How would you classify him?",
+    "choices": [
+      "Supportive",
+      "Neutral",
+      "Unaware",
+      "Resistant"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q073",
+    "q": "[No question text parsed]",
+    "choices": [
+      "significant event in a project that may indicate completion of a major phase is a/an:",
+      "Activity",
+      "Milestone",
+      "Work package",
+      "Deliverable"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q074",
+    "q": "You should use parametric estimating when your historical information used to develop the model was qualitative and not readily quantifiable.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q075",
+    "q": "True or False: The Cost Baseline is equal to the total of Activity Cost Estimates plus Contingency Reserves.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q076",
+    "q": "True or False: The Cost Baseline is equal to the total of Activity Cost Estimates.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q077",
+    "q": "The Project Scope Statement should not include?(NHUNG HOÀNG)",
+    "choices": [
+      "Project constraints.",
+      "Project deliverables .",
+      "Project assumptions.",
+      "Project charter."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q078",
+    "q": "As you plan your project, you do so thinking that all team members will be assigned to your project for at least 50% of their available time. This is an example of: A Poor planning",
+    "choices": [
+      "Wishful thinking",
+      "A project demand.",
+      "An assumption"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q079",
+    "q": "If \"develop online modules\" must be 100% completed before \"review online modules\" can begin, that is called a:",
+    "choices": [
+      "Finish to start relationship.",
+      "Finish to finish relationship.",
+      "Start to finish relationship.",
+      "Start to start relationship."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q080",
+    "q": "If \"develop online modules\" needs to finish before \"review online modules\" can finish, that is called a:",
+    "choices": [
+      "Finish to finish relationship.",
+      "Finish to start relationship.",
+      "Start to start relationship",
+      "Start to finish relationship"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q081",
+    "q": "True or False: If \"develop online modules\" needs to begin before \"review online modules\" can begin, that is called a start to start relationship.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q082",
+    "q": "What is a program?",
+    "choices": [
+      "An initiative set up by management",
+      "A means to gain benefits and control of related project",
+      "A group of unrelated projects managed in a coordinated way",
+      "A government regulation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q083",
+    "q": "True or False: The Process Improvement Plan is a component of the project management plan that details how project management and development processes are to be analyzed in order to identify how to reduce their value",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q084",
+    "q": "True or False: The Process Improvement Plan is a component of the project management plan that details how project management and development processes are to be analyzed in order to identify how to increase their value",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q085",
+    "q": "True or False: The Backward Pass is used through the activities to determine the total duration of the project.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q086",
+    "q": "True or False: The Backward Pass is used through the activities to determine the critical path & available float of the project.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q087",
+    "q": "True or False: Using bottom-up estimating techniques when activity durations or resource quantities are uncertain.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q088",
+    "q": "During project executing, a team member comes to the project manager because he is not sure what work he needs to accomplish on the project. Which of the following documents contains detailed descriptions of work packages?(NHUNG HOÀNG)",
+    "choices": [
+      "WBS dictionary",
+      "Activity list",
+      "Project scope statement",
+      "Scope management plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q089",
+    "q": "True or False: Performing quality assurance within the context of a project involves applying the planned, systematic quality activities to ensure that the project correctly employs all processes needed to meet project objectives and product requirements.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q090",
+    "q": "Scope creep results in all of the followings, except:(NHUNG HOÀNG)",
+    "choices": [
+      "Completion delays",
+      "Escalation of costs",
+      "Increases in project complexity",
+      "Decreases in project complexity"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q091",
+    "q": "True or False: Unregulated changes allow for innovation and flexibility. Regulating changes causes a lack of creativity.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q092",
+    "q": "[No question text parsed]",
+    "choices": [
+      "cost can be either variable or fixed. Which of the following statements are correct ( choose 2 answers)?",
+      "Variable costs: These costs change with the amount of production. Examples include the cost of material, supplies, and wages.",
+      "Fixed costs: These costs do not change as production changes. Examples include the cost of setup, rent, utilities, etc.",
+      "Fixed costs: These costs change with the amount of production. Examples include the cost of material, supplies, and wages.",
+      "Variable costs: These costs do not change as production changes. Examples include the cost setup, rent, utilities, etc."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q093",
+    "q": "Which one of these is not the approaches to conflict discussed in the Project Human Resources Management Lesson?",
+    "choices": [
+      "Confronting",
+      "Compromising",
+      "Smoothing",
+      "Forcing"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q094",
+    "q": "Which one of these is not the approaches to conflict discussed in the Project Human Resources Management Lesson?",
+    "choices": [
+      "Confronting",
+      "Compromising",
+      "Smoothing",
+      "Forcing"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q095",
+    "q": "True or False: Influence means you have the right to apply resources, make decisions and give approvals.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q096",
+    "q": "When you schedule work in a specific order because it cannot be completed any other way, what is the type of dependency used?",
+    "choices": [
+      "Discretionary",
+      "Internal",
+      "Mandatory",
+      "External"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q097",
+    "q": "True or False: The Project Charter is a document that formally authorizes the existence of a project. It also document initial requirements that satisfy the stakeholder's needs and expectations.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q098",
+    "q": "Which one is the correct matching of report types and the descriptions? Report types: (1) Status report (2) Progress report (3) Forecasting report Description: (a) Predicting future project progress and completion (b) Describing what the project team has accomplished or what is completed versus what is in progress (c) Describing where the project now stands",
+    "choices": [
+      "1 & a, 2 & b, 3 & c",
+      "1 & a, 2 & c, 3 & b",
+      "1 & b, 2 & c, 3 & a",
+      "1 & b, 2 & a, 3 & c"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q099",
+    "q": "The primary role of the project manager is:",
+    "choices": [
+      "Distributing work packages",
+      "Project initiation",
+      "Communication",
+      "Measuring performance"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q100",
+    "q": "Which one of these is the correct view of conflict?",
+    "choices": [
+      "Inevitable",
+      "Always bad",
+      "Should be avoided",
+      "Must be suppressed"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q101",
+    "q": "True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed just by the Project Manager.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q102",
+    "q": "True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed by the project team.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q103",
+    "q": "Which one of these is an example of role conflict:",
+    "choices": [
+      "When a team member does not know how to do his or her job.",
+      "When a team member does not know why he or she should do something.",
+      "When two team members are trying to complete the same task.",
+      "When a team member is late completing a task."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q104",
+    "q": "The start time of the project (the early start of the first activity) can be \"zero\" or \"one\" depending on your chosen convention.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q105",
+    "q": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those informed persons are:",
+    "choices": [
+      "Providing subject matter expertise",
+      "Making the final decision",
+      "Being kept updated about project progress",
+      "Completing the work"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q106",
+    "q": "True or False: Your project might pay more in order to reduce the schedule when using Crashing approach, but that is not often true if using Fast Tracking approach(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q107",
+    "q": "True or False: Earned value integrates scope, schedule and budget and uses monetary values to assess project status.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q108",
+    "q": "You are beginning to staff your project. Which of the following will NOT be used in developing and/or communicating roles and responsibilities?",
+    "choices": [
+      "Organization chart",
+      "WBS",
+      "Responsibility Assignment Matrix",
+      "Run chart"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q109",
+    "q": "Which one is not mentioned explicitly in the three components of the triple constraints:(NHUNG HOÀNG)",
+    "choices": [
+      "Quality",
+      "Time",
+      "Scope",
+      "Cost"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q110",
+    "q": "Project integration is done by the:",
+    "choices": [
+      "Team",
+      "Sponsor",
+      "Project manager",
+      "Stakeholders"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q111",
+    "q": "Project charter is created in which project management process group?",
+    "choices": [
+      "Closing",
+      "Planning",
+      "Executing",
+      "Monitoring and controlling"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q112",
+    "q": "Being prepared to do a complete job of developing and finalizing the scope baseline requires that you have done a thorough and timely job of identifying and analyzing stakeholders, and of collecting requirements. The development of the scope baseline can best be described as involving:",
+    "choices": [
+      "The functional managers",
+      "The project team",
+      "All the stakeholders",
+      "The business analyst"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q113",
+    "q": "Which one of these is not the major source of conflict that a project manager may influence?",
+    "choices": [
+      "Project management",
+      "Project priorities",
+      "Project team",
+      "Project resources"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q114",
+    "q": "True or False: Project quality focuses on the goods and services",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q115",
+    "q": "Which of the following is included in a project charter?",
+    "choices": [
+      "A risk management strategy",
+      "Work package estimates",
+      "Detailed resources estimates",
+      "The business case for the project"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q116",
+    "q": "All of the following tools and techniques can be valuable in risk identification, EXCEPT:",
+    "choices": [
+      "Reviewing and evaluating project documents",
+      "EVM (Earned Value Management)",
+      "SWOT (Strengths. Opportunities, Weaknesses. Threats)",
+      "Reviewing similar projects executed in past"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q117",
+    "q": "The following table is an activity list that includes the duration and predecessor for a series of project activities What is the duration of the critical path?",
+    "choices": [
+      "11",
+      "13",
+      "9",
+      "14"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q118",
+    "q": "Downward communication is communication to/from:",
+    "choices": [
+      "Your senior management.",
+      "Your social groups.",
+      "Your direct reports.",
+      "Your peers."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q119",
+    "q": "True or False: Effective project communication management creates a bridge between stakeholders based on a shared understanding of the project and the ongoing sharing of information needed for its success.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q120",
+    "q": "True or False: In a projectized organization, team members are never assigned to the project full time.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q121",
+    "q": "Your project has a team of which consists of yourself, a tester, five developers and a communicator. How many communication channels on your team?",
+    "choices": [
+      "36",
+      "9",
+      "28",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q122",
+    "q": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those accountable persons are:",
+    "choices": [
+      "Making the final decision",
+      "Being kept updated about project progress.",
+      "Completing the work",
+      "Providing subject matter expertise"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q123",
+    "q": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those consulted persons are:",
+    "choices": [
+      "Providing subject matter expertise",
+      "Making the final decision",
+      "Being kept updated about project progress.",
+      "Completing the work"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q124",
+    "q": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those responsible persons are:",
+    "choices": [
+      "Providing subject matter expertise",
+      "Supervising the work",
+      "Not completing the work",
+      "Completing the work"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q125",
+    "q": "Which one of these most correctly defines management reserve?",
+    "choices": [
+      "Per our lesson, management reserve and contingency are exactly the same.",
+      "Management reserve is not tied to specific work packages it is for the entire project.",
+      "Management reserve is tied to specific work packages.",
+      "Management reserve is tied to a specific milestone or event"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q126",
+    "q": "True or False: Performing quality control within the context of a project involves taking actions to eliminate causes of unsatisfactory project performance(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q127",
+    "q": "Identify the five engagement levels of stakeholders:(NHUNG HOÀNG)",
+    "choices": [
+      "Unaware, resistant, strong-willed, supportive, sponsor",
+      "Unaware, resistant, neutral, supportive, oblivious",
+      "Unaware, resistant, strong-willed, supportive, leading",
+      "Unaware, resistant, neutral, supportive, leading"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q128",
+    "q": "True or False: Using bottom-up estimating techniques when the detail is available and the accuracy is needed.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q129",
+    "q": "The team is helping the project manager to estimate activities on their project. There are several activities they need to estimate that have not been previously done by the company. What is the best method of estimating these activities?(NHUNG HOÀNG)",
+    "choices": [
+      "Top-down estimating",
+      "Three-point estimating",
+      "Parametric estimating",
+      "Bottom-up estimating"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q130",
+    "q": "You just came from a meeting with one of your project stakeholders, he knew well about your project and also its potential impacts, and actively engaged in ensuring that the project is a success. How would you classify him?",
+    "choices": [
+      "Supportive",
+      "Unaware",
+      "Leading",
+      "Neutral"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q131",
+    "q": "Your sponsor informs you that you must receive local government approval of your proposed building design before you can begin construction of your building. This dependency is:(NHUNG HOÀNG)",
+    "choices": [
+      "Internal",
+      "Mandatory",
+      "External",
+      "Discretionary"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q132",
+    "q": "To calculate early start (ES) of an activity which has more than one immediate predecessors, you will(NHUNG HOÀNG)",
+    "choices": [
+      "Take the latest late finish of its immediate predecessors.",
+      "Take the latest late start of its immediate predecessors.",
+      "Take the latest early finish of its immediate predecessors.",
+      "Take the latest early start of its immediate predecessors"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q133",
+    "q": "True or False: Quality management is the job done by project manager himself/herself to determine quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q134",
+    "q": "True or False: If you want to identify who your stakeholders are, asking who will not be impacted by the product or service being created can be helpful.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q135",
+    "q": "True or False: Performance reporting aims to inform stakeholders the good achievements of the project's objectives weekly or monthly.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q136",
+    "q": "Which of the following best describes the project manager's role as an integrator?",
+    "choices": [
+      "Help team members become familiar with the project",
+      "Put all the pieces of a project into a cohesive whole",
+      "Put all the pieces of a project into a program",
+      "Get all team members together into a cohesive whole"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q137",
+    "q": "The purpose of project risk management is to",
+    "choices": [
+      "Minimize the likelihood or the impact of negative events or threats to your project and to increase the likelihood or impact of positive events",
+      "Neutralize the likelihood or the impact of negative events or threats to your project and to neutralize the likelihood or impact of positive events",
+      "Minimize the likelihood or the impact of positive events or threats to your project and to increase the likelihood or impact of negative events.",
+      "Eliminate the likelihood or the impact of negative events or threats to your project and to decrease the likelihood or impact of positive events"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q138",
+    "q": "True or False: You should compare your project performance against the performance measurement baseline to look for potential changes in the project",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q139",
+    "q": "Which one of these is correct view of conflict?",
+    "choices": [
+      "Can (and should) be managed",
+      "Cause by troublemakers",
+      "Should be avoided",
+      "Always bad"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q140",
+    "q": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?",
+    "choices": [
+      "It will take much more time than a bottoms up estimating.",
+      "It's not very easy to scale.",
+      "Historical cost relationships may no longer be applicable.",
+      "The technical design is unstable."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q141",
+    "q": "If the response you choose is to accept a risk this means that:",
+    "choices": [
+      "You change your plans so that you eliminate the risk.",
+      "You actively do not consider the risk but establish contingency plan.",
+      "You change your plan so that another party will be responsible for the risk.",
+      "You create your plan to reduce the probability and/or the impact of the risk."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q142",
+    "q": "To ensure control over the incidence and frequency of change, the project manager establishes a:(NHUNG HOÀNG)",
+    "choices": [
+      "Work breakdown structure",
+      "Responsibility assignment matrix",
+      "Work procedure schedule",
+      "Change control process"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q143",
+    "q": "You have a project to build a new fence. The fence will form a square. Each side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3 . Using the following project status chart to calculate project current CV",
+    "choices": [
+      "CV=$300",
+      "CV=$100",
+      "CV=$250",
+      "CV=$200"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q144",
+    "q": "You have a project to build a new fence. The fence will form a square. Each side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3. Using the following project status chart to calculate project current BAC:",
+    "choices": [
+      "BAC= $3,000",
+      "BAC= $2,500",
+      "BAC= $4,000",
+      "BAC= $3,100"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q145",
+    "q": "You have a project to build a new fence. The fence will form a square. Each side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3.Side 4Day 1Day 2SFSDay 3Day 4Status End of Day 3. Using the following project status chart to calculate project current SV:",
+    "choices": [
+      "SV = $250",
+      "SV = $300",
+      "SV = $150",
+      "SV = $200"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q146",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager has little project experience, but she has been assigned as the project manager of a new project. Because she will be working in a matrix organization to complete her project, she can expect communications to be",
+      "Open and accurate",
+      "Simple",
+      "Complex",
+      "Hard to automate"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q147",
+    "q": "Which project management process group generally takes the most project time and resources?",
+    "choices": [
+      "Initiating",
+      "Planning",
+      "Executing",
+      "Monitoring and controlling"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q148",
+    "q": "The 8-80 rule refers to:",
+    "choices": [
+      "Never allow your team to work more than 8 hours per day or 80 hours during a 10-day work period.",
+      "Work packages over 80 hours should be split between multiple resources.",
+      "Work packages should NOT be between 8 and 80 hours of effort.",
+      "Work packages should be between 8 and 80 hours of effort"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q149",
+    "q": "[No question text parsed]",
+    "choices": [
+      "cost can be either direct or indirect. Which of the following statements are correct? (choose 2 answers)",
+      "Indirect costs :These costs are directly attributable to the work on the project. Examples are team wages. team travel and recognition expenses, and costs of material used on the project",
+      "Indirect costs: These costs are overhead items or costs incurred for the benefit of more than one project Examples include taxes, fringe benefits, and janitorial services",
+      "Direct costs: These costs are overhead items or costs incurred for the benefit of more than one project Examples include taxes, fringe benefits, and janitorial services",
+      "Direct costs: These costs are directly attributable to the work on the project. Examples are team wages. team travel and recognition expenses, and costs of material used on the project"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q150",
+    "q": "True or False: The term resources only refers to people, it does not include money or materials or equipment.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q151",
+    "q": "Your Cost Performance Index (CPI) is greater than 1 means you are:",
+    "choices": [
+      "on budget.",
+      "under budget.",
+      "over budget"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q152",
+    "q": "All of the following is responsible for documenting lessons learned, except:",
+    "choices": [
+      "Project manager",
+      "Project team",
+      "Key stakeholders",
+      "Key competitors"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q153",
+    "q": "The five project management process groups as described in the PMBOK® Guide and discussed in the preceding lesson are:",
+    "choices": [
+      "Define, measure, analyze, improve, control",
+      "Kickoff, requirements, plan, schedule, control",
+      "Requirements, design, development, testing, implementation",
+      "Initiating, planning, executing, monitoring and controlling, closing"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q154",
+    "q": "During executing, the project manager determines that a change is needed to material purchased for the project. The project manager calls a meeting of the team to plan how to make the changes. This is an example of:",
+    "choices": [
+      "Management by objectives",
+      "Lack of a change management plan",
+      "Good team relations",
+      "Lack of a clear work breakdown structure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q155",
+    "q": "We discussed three types of matrix organizations, they are:",
+    "choices": [
+      "Light, Medium and Heavy",
+      "Weak, Medium Strength and Strong",
+      "Weak, Balanced and Strong",
+      "Light, Mid-strength and Strong"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q156",
+    "q": "True or False: The primary output from the identification of risks is the risk register.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q157",
+    "q": "True or False: The Project Manager is responsible for stakeholder expectations management.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q158",
+    "q": "In a project context, risk is defined as:",
+    "choices": [
+      "The probability of an event having a positive or negative effect on at least one project objective.",
+      "The impact of not completing the project on time and within budget.",
+      "An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective.",
+      "An uncertain event that, if it occurs, will have a negative effect on at least one project objective."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q159",
+    "q": "Some of the major sources of conflict that a project manager may influence are:",
+    "choices": [
+      "Project management, project priorities, project team",
+      "Personality conflict, schedules, resources",
+      "Project charter, schedules, resources",
+      "Personality conflict, network diagram, resources"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q160",
+    "q": "Two team members disagree on how to solve a project issue. They express their disagreement and then engage in a professional debate. This is an example of: A Unrealistic conflict.",
+    "choices": [
+      "Unproductive conflict.",
+      "Healthy conflict.",
+      "Unhealthy conflict."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q161",
+    "q": "Which one of these most correctly defines contingency reserve?",
+    "choices": [
+      "Per our lesson, management reserve and contingency are exactly the same.",
+      "Contingency reserve is not tied to any specific work packages nor activities.",
+      "Contingency reserve is tied to specific work packages or activities.",
+      "Contingency reserve is tied to only one specific milestone."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q162",
+    "q": "True or False: Authority means you have the right to apply resources, make decisions and give approvals.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q163",
+    "q": "In Earned Value Management Technique, you can compute the Cost Performance Index (CPI) by applying which of following formula?",
+    "choices": [
+      "CP| = EV / PV",
+      "CP| = EV - AC",
+      "CPI = EV - PV",
+      "CPI = EV / AC"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q164",
+    "q": "In Earned Value Management Technique, you can compute the Estimate At Completion (EAC) by applying which of following formula? (Notes: BAC: Budget At Completion)",
+    "choices": [
+      "EAC = BAC - SPI",
+      "EAC = BAC + CPI",
+      "EAC = BAC * CPI",
+      "EAC = BAC / CPI"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q165",
+    "q": "In Earned Value Management Technique, you can compute the Estimate To which of following formula? (Notes. EAC. Estimate At Completion) Completion (ETC) by applying",
+    "choices": [
+      "ETC = EAC - AC",
+      "ETC = EAC + AC",
+      "ETC = EAC * AC",
+      "ETC = EAC/AC"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q166",
+    "q": "Which of the following is true about the development of a project charter?",
+    "choices": [
+      "The sponsor creates the project charter, and the project manager approves it",
+      "The project team creates the project charter, and the PMO (Project Management Office) approves it",
+      "The executive manager creates the project charter, and the functional manager approves it",
+      "The project manager creates the project charter, and the sponsor approves it"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q167",
+    "q": "True or False: In the context of a project, change is always a bad thing.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q168",
+    "q": "Which process groups must be included in every project?",
+    "choices": [
+      "Planning, executing, and closing",
+      "Initiating, planning, and executing",
+      "Initiating, planning, executing, monitoring and controlling, closing",
+      "Planning, executing, and monitoring and controlling"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q169",
+    "q": "Once you and your team identify and assess risks and develop responses you:",
+    "choices": [
+      "Pay close attention to the risks identified and do not look for new risks.",
+      "Only update your risk register when you are preparing to share it with your stakeholders.",
+      "Have completed your risk management responsibilities.",
+      "Continue to identify and monitor risks for the remainder of the project."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q170",
+    "q": "True or False: It should not to add extra cost to the estimates when you are concerned that your estimates might not be correct, especially if you think they are too low.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q171",
+    "q": "An output of the Close Project or Close Phase process is the creation of:",
+    "choices": [
+      "Project archives",
+      "A project charter",
+      "A project management plan",
+      "A risk management plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q172",
+    "q": "True or False: If you are not certain who your stakeholders are, asking who will use the product or service being created can be helpful.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q173",
+    "q": "If the response you choose is to transfer a risk this means that:",
+    "choices": [
+      "You actively do not consider the risk but establish contingency plan.",
+      "You change your plans so that you eliminate the risk.",
+      "You change your plan so that another party will be responsible for the risk.",
+      "You create your plan to reduce the probability and/or the impact of the risk."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q174",
+    "q": "[No question text parsed]",
+    "choices": [
+      "Communications Management Plan does the following:(NHUNG HOÀNG)",
+      "Coordinates an effort to communicate in meetings effectively",
+      "Lays out the approach and method for delivering information effectively and efficiently.",
+      "Lays out a plan on how to communicate with your Project Sponsor and other organizations",
+      "Coordinates the communication between project leaders and uninterested project members"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q175",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager is currently managing a manufacturing process improvement project that will be completed in five phases. The project manager has prepared the following status chart of the project by the end of 10/31. Based on the information provided. What is the actual cost of the project?",
+      "AC= $9.000",
+      "AC= $8.000",
+      "AC= $7,750"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q176",
+    "q": "[No question text parsed]",
+    "choices": [
+      "useful tool in identifying risks is the SWOT analysis. What does SWOT stand for?",
+      "Strengths, opportunities, weaknesses, and threats",
+      "Strengths, obstacles, weaknesses, and threats",
+      "Scope, opportunities, weaknesses, and time",
+      "Strengths, opportunities, winners, and threats"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q177",
+    "q": "True or False: Conflict management is the process by which the project manager uses appropriate managerial techniques to deal with the inevitable disagreements that develop among those working toward project accomplishment.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q178",
+    "q": "One way to classify your stakeholders is to use the Power/Interest Grid. If a stakeholder is low interest / low power, what should the Project Manager do?",
+    "choices": [
+      "Monitor",
+      "Keep satisfied",
+      "Manage closely",
+      "Keep informed"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q179",
+    "q": "One way to classify your stakeholders is to use the Power/Interest Grid. If a stakeholder is high interest / high power, what should the Project Manager do?",
+    "choices": [
+      "Monitor",
+      "Keep satisfied",
+      "Manage closely",
+      "Keep informed"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q180",
+    "q": "Given 14.000 USD is the most likely of the estimated cost of the activity, 8.000USD is the optimistic value and 26.000USD is the pessimistic one. By using the PERT (Program Evaluation and Review Technique) analysis to calculate the expected activity cost, which of the following is the result?",
+    "choices": [
+      "16.000 USD",
+      "12.000 USD",
+      "15.000 USD",
+      "21.000 USD"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q181",
+    "q": "True or False: Product quality focuses on the project management processes used to meet project objectives.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q182",
+    "q": "True or False: Performance reporting aims to inform stakeholders how resources are being used to achieve the project's objectives.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q183",
+    "q": "Your stakeholder register should not contain:",
+    "choices": [
+      "Identification information",
+      "Assessment information",
+      "Stakeholder classification",
+      "Scope information"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q184",
+    "q": "True or False: The Project Sponsor is responsible for stakeholder expectations management.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q185",
+    "q": "True or False: Your role as the project manager during quality control is to implement the quality management plan using the appropriate tools and techniques, in order to ensure that work is being performed according to required quality standards.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q186",
+    "q": "True or False: Project quality focuses on the project management processes used to meet project objectives.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q187",
+    "q": "As part of planning you have created a scope baseline, a budget baseline, and a schedule baseline. Should those baselines ever be allowed to change?",
+    "choices": [
+      "No, a baseline is a baseline.",
+      "Yes, it the schedule slips it is OK to update the baseline.",
+      "Yes, if the project manager approves baseline changes.",
+      "Yes, if the baseline is completely unachievable and the project sponsor approves it."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q188",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager is trying to complete a software development project, but cannot get enough attention for the project. Resources are focused on completing process-related work, and the project manager has little authority to assign resources. What form of organization must the project manager be working in?(NHUNG HOÀNG)",
+      "Functional",
+      "Matrix",
+      "Projectized",
+      "Coordinator"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q189",
+    "q": "All the following occur during the planning process group EXCEPT:",
+    "choices": [
+      "Develop Project Charter",
+      "Create WBS",
+      "Estimate Costs",
+      "Sequence Activities"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q190",
+    "q": "Which of the following is a characteristic of project management process?",
+    "choices": [
+      "Iterative",
+      "Unique",
+      "Unnecessary",
+      "Standardized"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q191",
+    "q": "True or false, a project manager spend most of his/her time communicating",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q192",
+    "q": "True or False: The sender is responsible to make the information clear, complete, and appropriate to the needs of the receiver. The receiver is responsible to provide feedback to acknowledge that the message has been received and understood.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q193",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager's primary responsibility is to deliver the product of the project within project constraints. Actions taken and changes made to the benefit of one constraint could negatively affect another. Which of the following best describes the major constraints on a project?",
+      "Scope, number of resources, and cost",
+      "Scope, cost, and schedule",
+      "Scope, schedule, cost, quality, risk, resources, and customer satisfaction",
+      "Schedule, cost, and number of changes"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q194",
+    "q": "Which one of below situations is not correct when discussing about Responsibility Assignment Matrix?",
+    "choices": [
+      "Two team members are consulted about the same task.",
+      "Two team members are informed about the same task.",
+      "Two team members are responsible for the same task.",
+      "Two team members are accountable for the same task"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q195",
+    "q": "[No question text parsed]",
+    "choices": [
+      "past project took 20,000 hours to complete. Your new project is adding some additional scope and that scope is estimated to take 10,000 additional hours. There is some work that was completed in the previous project that will not be completed in this project. That work is estimated at 5,000 hours. Labor rates have increased 10%, the old rate was $25 per hour. Your estimate for the new project is $687,500. Which estimating method is used?",
+      "Parametric estimating",
+      "Analogous estimating",
+      "Bottom-up estimating",
+      "Three-point estimating"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q196",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project management plan should be realistic in order to be used to manage the project. Which of the following is the best method to achieve a realistic project management plan?",
+      "The sponsor creates the project management plan based on input from the project manager",
+      "The functional manager creates the project management plan based on input from the project manager",
+      "The project manager creates the project management plan based on input from senior management",
+      "The project manager creates the project management plan based on input from the team"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q197",
+    "q": "The Project Scope Statement should include the following:(NHUNG HOÀNG)",
+    "choices": [
+      "Project exclusions, project constraints, project plan.",
+      "Project deliverables, project constraints, project team members.",
+      "Project deliverables, project constraints, project assumptions.",
+      "Project exclusions, project charter, project assumptions."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q198",
+    "q": "The Risk Management Plan is a subsidiary to the____document.(NHUNG HOÀNG)",
+    "choices": [
+      "Project Management Plan",
+      "Project Scope Statement Plan",
+      "Project Communications Plan",
+      "Project Stakeholder Plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q199",
+    "q": "True or False: The S-Curve depicts the relationship between the cost baseline budget and the schedule because it shows the planned cost baseline budget across the planned project timeline.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q200",
+    "q": "Lateral communication is communication to/from:",
+    "choices": [
+      "Your subordinates.",
+      "Your functional management.",
+      "Your line management.",
+      "Your peers."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q201",
+    "q": "You and another project manager disagree over whether a team member should work on your team or on her team. You decide that the team member can work for the other project manager in the afternoon and the other project manager says it is OK for the team member to work for you in the morning. The truth is you both wanted this person fulltime. The conflict resolution approach you have both used is:",
+    "choices": [
+      "Compromising",
+      "Smoothing",
+      "Confronting",
+      "Forcing"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q202",
+    "q": "True or False: Project scope statement is better to define inclusions (in-scope items) than identify only exclusions (out of scope items).",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q203",
+    "q": "Another important part of the scope statement is Project Exclusions.)\"\" If the response you choose is to mitigate a risk this means that:",
+    "choices": [
+      "You actively do not consider the risk but establish contingency plan",
+      "You change your plans so that you eliminate the risk",
+      "You change your plan so that another party will be responsible for the risk.",
+      "You create your plan to reduce the probability and/or the impact of the risk"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q204",
+    "q": "The project sponsor has just signed the project charter. What is the next thing to do?",
+    "choices": [
+      "Begin to complete work package",
+      "Validate scope",
+      "Start integrated change control",
+      "Start to create management plans"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q205",
+    "q": "What are the 5 approaches to conflict discussed in the Project Human Resources Management Lesson?(NHUNG HOÀNG)",
+    "choices": [
+      "Confronting, Compromising, Smoothing, Uninterested, Challenging.",
+      "Communicating, Compromising, Smoothing, Forcing, Avoiding.",
+      "Confronting, Compromising, Smoothing, Forcing, Avoiding.",
+      "Confronting, Challenging, Smoothing, Forcing, Avoiding."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q206",
+    "q": "Who is the stakeholder that has the most influence on your current running project?",
+    "choices": [
+      "Project Team",
+      "Investors",
+      "Competitors",
+      "Sponsor"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q207",
+    "q": "Which one is not the different between assumptions and constraints?",
+    "choices": [
+      "Assumptions are believed to be true, while constraints are true in nature.",
+      "Constraints are believed to be true, while assumptions are true in nature.",
+      "Assumptions are good for the project, while constraints are not good, most of the time.",
+      "If assumptions become false, it is bad news for the project. However, if constraints are false, it is good."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q208",
+    "q": "True or False: When it comes to projects, the emphasis is on strategic quality management. Quality is not an accident, quality is part of the plan, and quality is everyone's job.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q209",
+    "q": "Given Tm is the most likely of the estimated duration of the activity, To is the optimistic value and Tp is the pessimistic one. The PERT (Program Evaluation and Review Technique) analysis calculates the expected activity duration (Te) using which of the weighted average of these three estimates?",
+    "choices": [
+      "Te = (Tm + 4*To + Tp)/6",
+      "Te = (Tm + To + Tp)/3",
+      "Te = (To + 4*Tp + Tm)/6",
+      "Te = (Tp + 4*Tm + To)/6"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q210",
+    "q": "The best time to assign a project manager to a project is during:",
+    "choices": [
+      "Initiating",
+      "Planning",
+      "Executing",
+      "Integration"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q211",
+    "q": "True or False: Each person involved in the project should be assigned, but doesn't always need to know his or her role and responsibility",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q212",
+    "q": "Company procedures require the creation of a lessons learned register. Which of the following is the best use of lessons learned?",
+    "choices": [
+      "Historical records for future projects",
+      "Planning record for the current project",
+      "Informing the team about what the project manager has done",
+      "Informing the team about the project management plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q213",
+    "q": "Different estimating techniques serve different purpose, which of the following statements are correct (choose 2 answers)?",
+    "choices": [
+      "When activity duration or resource quantities are uncertain, use top-down estimating techniques.",
+      "When detail is available and accuracy is needed, use bottom-up estimating techniques.",
+      "When activity duration or resource quantities are uncertain, use bottom-up estimating techniques.",
+      "When detail is available and accuracy is needed, use top-down estimating techniques"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q214",
+    "q": "In a matrix-based organization:(NHUNG HOÀNG)",
+    "choices": [
+      "Team members are always assigned to the project full time",
+      "A project manager is not assigned to the team.",
+      "The project manager acts as manager of the team",
+      "The functional manager has stronger power than the project manager's power"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q215",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project is plagued by requested changes to the project charter. Who has the primary responsibility to decide if these changes are necessary?",
+      "The project manager",
+      "The project team",
+      "The sponsor",
+      "The stakeholders"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q216",
+    "q": "True or False: Project Manager should consider using milestones for high level reporting.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q217",
+    "q": "Which one is NOT the approach to shorten your project schedule?",
+    "choices": [
+      "Fast Tracking",
+      "Crashing",
+      "Reducing"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q218",
+    "q": "[No question text parsed]",
+    "choices": [
+      "market demand, a business need, and a legal requirement are examples of",
+      "Reasons to hire a project manager",
+      "Reasons projects are initiated",
+      "Reasons people or businesses become stakeholders",
+      "Reasons to sponsor a project"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q219",
+    "q": "Which organization structure can provide the most power for the project manager?",
+    "choices": [
+      "Functional",
+      "Weak Matrix",
+      "Balanced Matrix",
+      "Strongest Matrix"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q220",
+    "q": "Which one is correct view of conflict?",
+    "choices": [
+      "Natural result of change",
+      "Always bad",
+      "Caused by troublemakers",
+      "Must be suppressed"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q221",
+    "q": "True or False: Each group of persons involved in the project should be assigned, and always needs to know their role and responsibility.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q222",
+    "q": "Which one is not the causes of scope creep?",
+    "choices": [
+      "Poorly defined objectives",
+      "Lack of defined change control process",
+      "Changing stakeholder perspectives",
+      "Increased understanding of what is takes to get it done"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q223",
+    "q": "Lateral communication is NOT communication to/from:(NHUNG HOÀNG)",
+    "choices": [
+      "Your customers.",
+      "Your friends.",
+      "Your subordinates.",
+      "Your peers."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q224",
+    "q": "Your project had a team of which consists of yourself, a tester, five developers and a communicator. As the project is behind schedule so one more developer has been assigned to your team. How many communication channels on your team now?",
+    "choices": [
+      "8",
+      "9",
+      "28",
+      "36"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q225",
+    "q": "True or False: The danger of estimating using the same parametric model is the no longer applicable of historical data.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q226",
+    "q": "Which item would most likely NOT be part of a basic communication plan.",
+    "choices": [
+      "What they need to know.",
+      "The amount of their annual bonus.",
+      "With whom to communicate.",
+      "The best medium for the communication."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q227",
+    "q": "To calculate late start (LS) of an activity, you will",
+    "choices": [
+      "Take its late finish minus its estimated duration.",
+      "Take its early finish minus its estimated duration.",
+      "Take its early start plus its estimated duration.",
+      "Take its early start."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q228",
+    "q": "You have a project to build a new fence. The fence will form a square. Cash side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3. Using the following project status chart to calculate project current PV:",
+    "choices": [
+      "PV = $3.000",
+      "PV = $2.200",
+      "PV = $2,650",
+      "PV = $3.100"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q229",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager can defend against scope creep with a good____________!",
+      "Procurement process",
+      "Change control process",
+      "Risk management plan",
+      "Project management plan"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q230",
+    "q": "Your stakeholder register is your primary output and should at least contain:",
+    "choices": [
+      "Job descriptions, identification information, and stakeholder classification",
+      "Assessment information, scope information, and stakeholder classification",
+      "Assessment information, identification information, and stakeholder classification",
+      "Assessment information, identification information, and risk classification"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q231",
+    "q": "If \"review online modules\" needs to begin before \"develop online modules\" can finish, that is called a:(NHUNG HOÀNG)",
+    "choices": [
+      "Finish to start relationship.",
+      "Start to finish relationship.",
+      "Finish to finish relationship.",
+      "Start to start relationship."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q232",
+    "q": "To manage a project effectively, work should be broken down into small pieces. Which of the following does not describe how far to decompose the work?",
+    "choices": [
+      "Until it has a meaningful conclusion",
+      "Until it cannot be logically subdivided further",
+      "Until it can be done by one person",
+      "Until it can be realistically estimated"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q233",
+    "q": "What description defines Bottoms Up Estimating?",
+    "choices": [
+      "A technique that analyzes activities on past projects and using them as a basis for estimating costs.",
+      "A technique that uses a mathematical model to estimate costs.",
+      "A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q234",
+    "q": "Which of the following action should not include in the Scope Management Plan? A Prepare a project scope statement based upon the project charter.",
+    "choices": [
+      "Enable the creation and maintenance of the project work breakdown structure (WBS)",
+      "Define how format verification and acceptance of the completed project deliverables will be accomplished.",
+      "Control how requests for changes to the project scope will be processed."
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q235",
+    "q": "The definition of a stakeholder includes",
+    "choices": [
+      "People and organizations that are not impacted by your project.",
+      "Organizations impacted by your project but not people, they are all part of the impacted organizations.",
+      "The people or organizations that are positively or negatively impacted by your project D People who are impacted by your project, but not organizations impacted by your project"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q236",
+    "q": "Which element should NOT be included in risk management plan?",
+    "choices": [
+      "Budgeting",
+      "Timing",
+      "Roles and Responsibilities",
+      "Risk Register"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q237",
+    "q": "An estimate created by looking at a similar project or activity and then adding or subtracting to or from the estimate based on the differences between the two is called:",
+    "choices": [
+      "Parametric estimating",
+      "Analogous estimating",
+      "Bottom-up estimating",
+      "Exact estimating"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q238",
+    "q": "The network diagram is the best tool for demonstrating:",
+    "choices": [
+      "Schedule performance over time",
+      "Schedule variances",
+      "Resource requirements",
+      "The sequence of project activities"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q239",
+    "q": "Which statement is not correct?(NHUNG HOÀNG)",
+    "choices": [
+      "Project scope is the work that needs to be accomplished to deliver a product, service, or result.",
+      "Product scope completion is measured against the product requirement.",
+      "Project scope completion is measured against the project management plan and specially the project scope statement, the work breakdown structure (WBS), and the WBS dictionary.",
+      "Product scope is the work that needs to be accomplished to complete a project"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q240",
+    "q": "True or False: The primary goal of project risk management is to maximize the likelihood and impact of negative events or threats and to minimize the likelihood and impact of positive events or opportunities.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q241",
+    "q": "Which one is not the five engagement levels of stakeholders?",
+    "choices": [
+      "Unaware",
+      "Resistant",
+      "Neutral",
+      "Supportive"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q242",
+    "q": "When you and your team know that a positive risk has a high likelihood of occurring and it will be very beneficial if it does:",
+    "choices": [
+      "You should not document the risk as it will not impact badly to your project.",
+      "You should develop a contingency plan and ask your management for contingency reserve.",
+      "You should transfer the risk to the vendor owned by your friend so he/she can earn the benefit.",
+      "You should develop the mitigation plan to reduce the probability of the risk happen."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q243",
+    "q": "True or False: Risk management is one-time process. You need to plan for all possible risks at the project beginning and then follow defined actions to control those risks until they are closed or cancelled.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q244",
+    "q": "True or False: Your role as the project manager during quality assurance is to work with a quality assurance manager who will create a test plan and test cases which will be used to test the product you are creating in order to prevent defects from reaching your customer.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q245",
+    "q": "True or False: Your role as the project manager during quality assurance is to implement the quality management plan using the appropriate tools and techniques, in order to ensure that work is being performed according to required quality standards.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q246",
+    "q": "Operational work is different from project work in that operational work is:",
+    "choices": [
+      "Unique",
+      "Temporary",
+      "Ongoing and repetitive",
+      "A part of every project activity"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q247",
+    "q": "True or False: Using top-down estimating techniques when the detail is available and the accuracy is needed.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q248",
+    "q": "Should the Project Scope Statement document include?",
+    "choices": [
+      "Acceptance criteria",
+      "Milestones",
+      "WBS (Work Breakdown Structure)",
+      "WBS Dictionary"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q249",
+    "q": "Which process group focuses on completing the requirements of the project?",
+    "choices": [
+      "Initiating",
+      "Planning",
+      "Executing",
+      "Monitoring and controlling"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q250",
+    "q": "True or False: The worst organization to use to run a project will always be the functional organization.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q251",
+    "q": "True or False: Project Cost Management processes aim to help the project can be completed within the approved budget.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q252",
+    "q": "As discussed in the preceding lesson, The PMBOK® Guide describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
+    "choices": [
+      "Contracts, Process, Risk",
+      "Cost, Scope, Time",
+      "Cost, Integration, Process",
+      "Quality, Process, Scope"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q253",
+    "q": "The SPI is greater than one, you are ahead of schedule.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q254",
+    "q": "All the following are characteristics of a project EXCEPT:",
+    "choices": [
+      "It is temporary",
+      "It has a definite beginning and end",
+      "It has interrelated activities",
+      "It repeats itself every month"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q255",
+    "q": "In a functional organization:",
+    "choices": [
+      "Team members are never assigned to the project full time.",
+      "A project manager is not assigned to the team.",
+      "The project manager acts as manager of the team.",
+      "The functional manager has stronger power than the project manager's power."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q256",
+    "q": "True or False: Scope creep represents the situation that the changes are made with the proper process and authority.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q257",
+    "q": "[No question text parsed]",
+    "choices": [
+      "company has been awarded a software development project which requires the development team to work at the client's office. The client has assigned each developer a cubicle from which to perform their work. During a daily standup meeting, a developer states that the team members are too isolated and colocating the team in a war room would increase productivity and quality. What should the project manager do first?",
+      "Explain to the team that colocation would impede productivity due to the inevitable distractions",
+      "Explain to the team that a war room was not specified in the contract",
+      "Negotiate with the client to make a war room available to the team",
+      "Capture a description of the developer's concern in the issue log"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q258",
+    "q": "[No question text parsed]",
+    "choices": [
+      "dashboard viewable by all project stakeholders displays various statuses using the industry standard of red, yellow, and green colors. Throughout project execution, to meet the needs of the project and some of the project stakeholders, the project manager has been adding more colors to reflect additional statuses. This situation has created confusion among some of the stakeholders over the status naming conventions and meanings. What should the project manager do?",
+      "Revert the status to an industry standard of red, yellow, green",
+      "Explain the meaning of the new statuses to the stakeholders",
+      "Remove statuses from the dashboard to avoid confusion",
+      "Add a simpler status for the stakeholders who are confused"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q259",
+    "q": "[No question text parsed]",
+    "choices": [
+      "good change process will:",
+      "Require the same level of approval for all changes.",
+      "Allow the project manager to approve all changes.",
+      "Have change thresholds that are appropriate for the type of change.",
+      "Be very complex in order to discourage changes."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q260",
+    "q": "[No question text parsed]",
+    "choices": [
+      "key stakeholder has been resistant to the project's objectives, and the support of this stakeholder is vital to the success of the project. The project manager has employed various engagement strategies which have been ineffective and needs to determine the underlying reason that stakeholder engagement is not having the planned effect. What should the project manager do next?",
+      "Develop a stakeholder engagement assessment matrix",
+      "Conduct data analysis",
+      "Submit a change request to update the stakeholder engagement plan",
+      "Perform an alternatives analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q261",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project is underway to construct a 50 story office building. With construction nearly complete, a government inspector has issued a stop order because one of the cranes failed inspection. The schedule reserves are inadequate to cover the resulting delay from the unavailability of the key resource. What should the project manager do next?",
+      "Update the resource management plan",
+      "Submit a change request to update the schedule baseline",
+      "Submit a change request to update the cost baseline",
+      "Terminate the project since the project objectives cannot be met"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q262",
+    "q": "You are managing a software upgrade project for your company. Your project sponsor has a great deal of authority regarding project decisions, but you recently discovered that he doesn't have much interest in your project. To complete the project successfully, you need your project sponsor's continuous support. What stakeholder management strategy should you use with your project sponsor?",
+    "choices": [
+      "Keep the sponsor satisfied",
+      "Manage the sponsor closely",
+      "Monitor the sponsor's actions",
+      "Keep the sponsor informed"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q263",
+    "q": "You are managing the development of a new smartphone in an extremely competitive market. You are planning the must-have features of the smartphone in detail so that work can begin and the product can be released to the market as early as possible. The future features are unknown at the moment and will depend on what the competitors release. You will plan these features in greater detail later on. As you and your team create the work breakdown structure (WBS), what will you use to indicate the future features?",
+    "choices": [
+      "Control accounts",
+      "Rolling wave planning",
+      "Work packages",
+      "Planning packages"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q264",
+    "q": "You are part of a cross-functional organizational development team, piloting an adaptive approach to project management in an organization that has traditionally used a predictive approach. You realize that you have to tailor the template of the schedule management plan. Which of the following components of the template are you likely to tailor the most?(NHUNG HOÀNG)",
+    "choices": [
+      "The rules of performance measurement, the summary milestones, and the key deliverables",
+      "The organizational procedures links, the units of measure, and the project organization charts",
+      "The schedule model development, the release and iteration length, and the reporting formats",
+      "The project schedule model maintenance, the level of accuracy, and the level of precision"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q265",
+    "q": "You are part of the project team designing a new type of subway car. You have completed the last work package for the braking system; however, you are not sure what the acceptance criteria are for this particular work package. Where can you find that information?",
+    "choices": [
+      "The project management plan",
+      "The project scope statement",
+      "The requirements documentation",
+      "The WBS dictionary"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q266",
+    "q": "You are planning a project to construct a luxury condominium complex that will include jacuzzi tubs among its numerous features. Due to technical constraints, it has been decided to eliminate the jacuzzi tubs from the final project requirements. You document the jacuzzi tubs as an explicit scope exclusion in the project scope statement as well as update the requirements documentation to reflect this change. What should you do next?",
+    "choices": [
+      "Reflect the scope exclusion in the requirements traceability matrix",
+      "Document the status of the change in the change log",
+      "Record the elimination of the jacuzzi tubs as an issue in the issue log",
+      "Capture the exclusion of the jacuzzi tubs in the exclusion register"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q267",
+    "q": "You are preparing an estimate of the cost for an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?",
+    "choices": [
+      "Bottoms up",
+      "Parametric",
+      "Probabilistic",
+      "Analogous"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q268",
+    "q": "You are the project manager for the construction of a new thin-crust pizza vending machine. You take all the information gathered in the project management plan to date and begin to develop a project schedule. When you reach the activity labeled as 6.5.3, you are unsure if a refrigeration specialist is needed for the installation of the cooling mechanism for the pizza dough. What project document would you reference in order to get information on the resources required for installing the cooling mechanism?",
+    "choices": [
+      "Resource calendar",
+      "Resource management plan",
+      "Activity attributes",
+      "Procurement management plan"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q269",
+    "q": "You are working with your team on estimating how much time each activity will take. One of the documents you are using contains information on categories of labor, material, and equipment required to complete your project. You are also interested to see skill levels of your labor, any certifications required, and grade levels of your supplies. Which of the following documents would you primarily refer to for this purpose?",
+    "choices": [
+      "Resource breakdown structure",
+      "Organizational breakdown structure",
+      "Work breakdown structure",
+      "Risk breakdown structure"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q270",
+    "q": "You have a stakeholder on your project who has a reputation as being very difficult. He dislikes change and argues against any suggested updates to the way in which his department does their work. The project you are leading is going to significantly impact at least two processes used by his team. Which do you think is the best response to the situation?(NHUNG HOÀNG)",
+    "choices": [
+      "Seek him out and begin to open communications with him about what is changing and why.",
+      "Start the project when you know he's out of town and send him a meeting invite to cover your tracks.",
+      "Ignore him and start the project without him. You will include him when you absolutely have to."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q271",
+    "q": "You have completed a nine-month project, and you are in the closing stage. The project completed on time and under budget and everyone in your department has congratulated you on your achievement. The vice president of your company heard about the success of your project and wants a summary overview of project performance so that he can talk about your success at the next board meeting. What should you provide to him?",
+    "choices": [
+      "Lessons learned repository",
+      "Project closure documents",
+      "Final lessons learned register",
+      "Final report"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q272",
+    "q": "You have just taken over a project to overhaul the company's telecommunications network. During your first week, you determine that the engineers spend at least 80% of their time responding to unexpected requests for information from different project stakeholders. Because of these interruptions, your engineers cannot focus on their assigned project activities, which is resulting in frequent network outages. What should you do first?",
+    "choices": [
+      "Immediately tell the engineers to stop responding to unexpected requests since it is not their responsibility",
+      "Push the engineers to respond to all the requests faster so that they can perform their assigned project activities",
+      "Ask the engineers to forward all stakeholder inquiries to you so that they can focus on their originally planned tasks",
+      "Review the communications management plan to understand how stakeholder requests should be handled"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q273",
+    "q": "You have recently been assigned to lead a project that is halfway into execution. The project has many stakeholders, and you are trying to determine how to engage them effectively. Which of the following will best help you in this effort?",
+    "choices": [
+      "Project management plan",
+      "Project charter",
+      "Work performance reports",
+      "Procurement documents"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q274",
+    "q": "You work with your team to sequence activities on the project you are leading. You are looking for the factors, constraints, and potential dependencies among project activities that can influence the way activities are sequenced, as well as help you understand the relationship between activities and the need for leads and lags. Where could you find this information?",
+    "choices": [
+      "Basis of estimates",
+      "Work breakdown structure",
+      "Assumption log",
+      "Project schedule"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q275",
+    "q": "Your boss is giving you a rough outline of the scope, constraints, and risks involved in a prospective client's project. The project is highly similar to another project you are currently closing. The sponsor wants to know how long this project would take your team to complete. You think your team may need two months, but what should your answer be?",
+    "choices": [
+      "\"Let me run some numbers in a simulation, and get back to you tomorrow.\"",
+      "\"Give us two months. We will knock it out just like the project that we are closing now.\"",
+      "\"If it truly resembles this project we are closing, it could be six to ten weeks.\"",
+      "\"Considering the uncertainty in scope, I estimate three months.\""
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q276",
+    "q": "Your company has just been awarded the contract for an important research project. The CEO of your company has asked you, as the project manager, to create the project charter and send it to her so that she can review and approve it. To create the project charter, you need the project's statement of work (SOW). What should you do?(NHUNG HOÀNG)",
+    "choices": [
+      "Create the SOW yourself since you are the project manager",
+      "Look for the SOW in your organizational process assets (OPAs)",
+      "Ask your customer to provide you with the SOW",
+      "Ask your CEO to provide you with the SOW"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q277",
+    "q": "Your company was recently awarded a software development project, and you have just completed the scope management plan. The sponsor reviews the plan and states that the client specified the use of Scrum, while the plan indicates a waterfall approach. Which component of the project management plan did you most likely overlook while developing the scope management plan?",
+    "choices": [
+      "Project life cycle description",
+      "Development approach",
+      "Requirements management plan",
+      "The contract with the client"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q278",
+    "q": "Your risk report shows that project risk exposure overall has grown close to a negative threshold. Before the next regular meeting, you ask risk owners to present any risks and opportunities that may affect short-term activities. In the meeting, it becomes clear that risk owners from less engaged departments did not implement some of the previously approved responses. What should you do now to reduce risk exposure?",
+    "choices": [
+      "Submit a change request to exploit an opportunity that potentially makes up for the undone risk responses",
+      "Privately confront the risk owners with the issue and collaborate to remove any impediments to the risk responses",
+      "Reassign the risk ownership to team members who are in departments that are more engaged in the project",
+      "Escalate the issue by calling a meeting with the risk owners and their managers to discuss disciplinary measures"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q279",
+    "q": "Your sponsor has committed to building a high-speed rail from one major inland city, Azules, to the coast. You have two possible routes, either Brazos or Corazon. Given each route's costs, odds, and rewards of high demand and low demand in this decision tree, how would you quantify the expected monetary value of the route to Brazos?",
+    "choices": [
+      "1.6 billion",
+      "-2 billion",
+      "0.8 billion",
+      "10.8 billion"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q280",
+    "q": "To calculate early finish (EF) of an activity, you will",
+    "choices": [
+      "Take its early start plus its estimated duration.",
+      "Take its late start plus its estimated duration.",
+      "Take its late finish minus its estimated duration.",
+      "Take its late finish."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q281",
+    "q": "In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:",
+    "choices": [
+      "Critical path",
+      "Schedule baseline",
+      "Slack line",
+      "Action plan"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q282",
+    "q": "Once the logic of a network is laid out, the project manager will conduct a forward pass and a backward pass through the network. This will provide information regarding ___ and will identify the___.",
+    "choices": [
+      "Resource shortages, high risk activities",
+      "The total duration of the project, critical path",
+      "The slack for each activity, high risk activities",
+      "The high risk activities, non-critical path"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q283",
+    "q": "The discipline of quality management complements the discipline of project management. Both recognize the importance of:(NHUNG HOÀNG)",
+    "choices": [
+      "Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility",
+      "Company satisfaction, prevention over inspection, continuous improvement, and management responsibility",
+      "Customer satisfaction, prevention over inspection, continuous improvement, and project manager's responsibility",
+      "Customer satisfaction, inspection over prevention, continuous improvement, and management responsibility"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q284",
+    "q": "Who should take the most responsibility for clear and effective communication?",
+    "choices": [
+      "The Communications Manager",
+      "The receiver",
+      "The sender and the receiver",
+      "The sender"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q285",
+    "q": "During status review meetings to evaluate project performance and progress, which tool or technique is NOT preferred to use?",
+    "choices": [
+      "Variance analysis",
+      "Trend analysis",
+      "Earned Value Management (EVM)",
+      "Requirement analysis"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q286",
+    "q": "True or False: When you choose to transfer your project risk to a third party, it will definitely rise to secondary risk.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q287",
+    "q": "Who is the stakeholder that will ultimately use the product or service you are creating?",
+    "choices": [
+      "Project Team",
+      "Project Manager",
+      "Customer/User",
+      "Sponsor"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q288",
+    "q": "[No question text parsed]",
+    "choices": [
+      "new project manager has asked you for advice on creating a work breakdown structure. After you explain the process to her, she asks you what software she should use to create the WBS and what she should do with it when it is completed. You might respond that the picture is not the most valuable result of creating a WBS. The most valuable result of a WBS is:",
+      "A Gant chart",
+      "Team buy-in",
+      "Activities",
+      "A list of risks"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q289",
+    "q": "[No question text parsed]",
+    "choices": [
+      "project manager may use ____ to make sure the team members clearly know what is included in each of their work packages(NHUNG HOÀNG)",
+      "The project scope statement",
+      "The product scope",
+      "The WBS dictionary",
+      "The WBS"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q290",
+    "q": "The project scope statement describes work on a high-level basis. Work packages need to be specific to enable team members to complete their work without gold plating. The product scope does not tell team members what work is assigned to them. The team should have a copy of the schedule, but a schedule does not show them what work is included in each of their work packages. Work packages are described in the WBS dictionary. NOTE: Do not think of the WBS dictionary as a dictionary of terms. Your team member informs you that the test system must be refreshed with your test data before testing can begin. This dependency is:",
+    "choices": [
+      "Discretionary",
+      "Internal",
+      "Mandatory",
+      "External"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q291",
+    "q": "True or False: The critical path is made up by all zero float activities (activities have floats equal to zero) in the project network diagram.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q292",
+    "q": "True or False: The Fast Tracking is the approach to add more resources (labor, overtime, etc.) into the activities to reduce their durations.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q293",
+    "q": "[No question text parsed]",
+    "choices": [
+      "team member tells you that her work is too creative to provide you with a fixed single estimate for the activity. You both decide to use the average labor hours (from past, similar projects) to develop a prototype. This is an example of which of the following?",
+      "Parametric estimating",
+      "Three-point estimating",
+      "Analogous estimating",
+      "One-point estimating"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q294",
+    "q": "True or False: Earned value integrates schedule, budget and quality and uses monetary values to assess project status.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q295",
+    "q": "The discipline of quality management complements the discipline of project management. Both recognize all but one of the following:",
+    "choices": [
+      "Customer satisfaction",
+      "Prevention over inspection",
+      "One-time improvement",
+      "Management responsibility"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q296",
+    "q": "The Process Improvement Plan Is:",
+    "choices": [
+      "The number one component of the project management plan.",
+      "A subsidiary, or component of the project management plan."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q297",
+    "q": "Which one is the correct matching of communication methods and the explanations? Communication methods: (1) Interactive (2) Push (3) Pull Explanations: (a) Between two or more parties and multidirectional; the most efficient way to ensure common understanding. (b) Sent to recipients; does not ensure it was actually received and understood. (c) Recipients must access the information; works for large amounts of information or large audiences, each recipient accesses at their own discretion.",
+    "choices": [
+      "(1)&(a), (2) &(b), (3)&(c)",
+      "(1)&(a), (2) &(c), (3) &(b)",
+      "(1)&(b), (2) &(c), (3)&(a)",
+      "(1)&(b), (2)&(a), (3)&(c)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q298",
+    "q": "During a risk brainstorming session, a team member identifies a risk. This particular risk does not seem to belong to any of the categories in you Risk Breakdown Structure (RBS). How should you respond?(NHUNG HOÀNG)",
+    "choices": [
+      "Chastise him for making up risks which cannot exist because there is not a category for such risks.",
+      "Ignore him and move on to another risk identified by a different team member.",
+      "Thank him for his work, but inform him that the risk cannot be included because it does not fit any of the categories defined in the RBS.",
+      "Record the list in the risk register, discuss potential responses and make a note to update the RBS."
+    ],
+    "answer": 3
+  },
+  {
+    "id": "q299",
+    "q": "Who might not be your project's stakeholders?",
+    "choices": [
+      "Project team members",
+      "Project management team",
+      "Customer/User",
+      "Performing organizations"
+    ],
+    "answer": -1
+  },
+  {
+    "id": "q300",
+    "q": "True or False: The sender is responsible to provide feedback to acknowledge that the sent message has been received and understood. The receiver is responsible to make sure the sent message is clear, complete, and appropriate.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q301",
+    "q": "Which one of these should be the view of conflict?(NHUNG HOÀNG)",
+    "choices": [
+      "Caused by troublemakers",
+      "Often beneficial",
+      "Should be avoided",
+      "Must be suppressed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q302",
+    "q": "One way to classify your stakeholders is to use the Power/Interest Grid. If a stakeholder is low interest / high power, what should the Project Manager do?",
+    "choices": [
+      "Monitor",
+      "Keep satisfied",
+      "Manage closely",
+      "Keep informed"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q303",
+    "q": "True or False: If \"develop online modules\" needs to finish before \"review online modules\" can finish, that is called a finish to finish relationship.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q304",
+    "q": "We discussed three types of matrix organizations, the not mentioned one is:",
+    "choices": [
+      "Medium Matrix",
+      "Weak Matrix",
+      "Balanced Matrix",
+      "Strong Matrix"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q305",
+    "q": "True or False: When creating the WBS of the project, Project Manager decided to not include his management tasks into WBS as those tasks will be done by him and he knows well what he has to do in the project.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q306",
+    "q": "True or False: Using top-down estimating techniques when activity durations or resource quantities are uncertain.(NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q307",
+    "q": "True or False: The term resources refers to not only people, it also includes money or materials or equipment. (NHUNG HOÀNG)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q308",
+    "q": "True or False: The primary output from the identification of risks is the stakeholder register.(NHUNG HOÀNG)",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q309",
+    "q": "True or False: A Work Breakdown Structure (WBS) is a deliverable oriented hierarchical decomposition of the work to be executed just by the Project Manager.",
+    "choices": [
+      "False",
+      "True"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q310",
+    "q": "If the response you choose is to exploit a risk this means that:",
+    "choices": [
+      "You actively do not consider the risk but establish contingency plan.",
+      "You add steps to your plans to make certain the opportunity is captured.",
+      "You change your plan so that another party will be responsible for a partial amount of ownership of the opportunity.",
+      "You create your plan to increase the probability and/or the impact of the opportunity."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q311",
+    "q": "You and your team have identified a risk that is a threat to your ability to successfully meet project objectives. The risk involves team members from your company performing work which requires training, certification, and many hours of experience. You have one newly certified team member and others who are still in training. Which do you think is your best response to this risk?",
+    "choices": [
+      "Acknowledge your lack of expertise and set aside some contingency reserve to cover the risk.",
+      "Change the scope of the project so that this type of work is excluded and introduce a new risk, that of an unhappy sponsor.",
+      "Let the team do the work and see what happen, do not prepare any other response.",
+      "You have budget to hire external resources and there is a vendor you can hire who specialized in this type of work, hire them."
+    ],
+    "answer": 3
+  }
+]
