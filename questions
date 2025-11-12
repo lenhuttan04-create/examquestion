@@ -1,0 +1,1246 @@
+[
+  {
+    "Câu 1": "An important part of the project scope statement is exclusions or out of scope items.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 2": "The network diagram can be used to:",
+    "Đáp án đúng": "Help to identify riskier activities"
+  },
+  {
+    "Câu 3": "You are scheduling an activity which involves a government agency. What type of dependency are you working on?",
+    "Đáp án đúng": "D. External"
+  },
+  {
+    "Câu 4": "In our lessons the acronym RAM stands for:",
+    "Đáp án đúng": "B. Responsibility Assignment Matrix"
+  },
+  {
+    "Câu 5": "The purpose of capturing lessons learned is:",
+    "Đáp án đúng": "B. To capture what went well so that you can recreate the good and to capture what could have gone better so that next time it will go better."
+  },
+  {
+    "Câu 6": "The work breakdown structure can best be thought of as an effective aid for _____ communications.",
+    "Đáp án đúng": "A. Stakeholders"
+  },
+  {
+    "Câu 7": "The WBS is used to derive all but one of the following:",
+    "Đáp án đúng": "B. The business need for the project"
+  },
+  {
+    "Câu 8": "Which one is not included in the Scope Baseline?",
+    "Đáp án đúng": "D. Project Documents Updates."
+  },
+  {
+    "Câu 9": "Upward communication is communication to/from:",
+    "Đáp án đúng": "A. Your senior management."
+  },
+  {
+    "Câu 10": "Which of the following is NOT likely to be documented in a communications management plan?",
+    "Đáp án đúng": "A. Person responsible for tracking risk events"
+  },
+  {
+    "Câu 11": "Which of the following is NOT the disadvantage of bottom-up estimating?",
+    "Đáp án đúng": "B. Does not gain buy-in from the team"
+  },
+  {
+    "Câu 12": "Which of the items below do you think belong in the cost management plan?",
+    "Đáp án đúng": "D. Project Budget Reporting Guidelines"
+  },
+  {
+    "Câu 13": "True or False: When you are concerned that your estimates might not be correct, especially if you think they are too low, you should pad the estimate and add extra.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 14": "As you plan your project, the sponsor informed you that all team members will be assigned to your project for at most 50% of their available time. This is an example of:",
+    "Đáp án đúng": "D. A constraint"
+  },
+  {
+    "Câu 15": "We discussed four types of organization structures, they are:",
+    "Đáp án đúng": "B. Functional, Matrix-Based, Projectized and Composite"
+  },
+  {
+    "Câu 16": "Which of the following is NOT the advantages of top-down estimating?",
+    "Đáp án đúng": "D. More accurate"
+  },
+  {
+    "Câu 17": "True or False. The Project Charter is a document issued by the project initiator or sponsor that formally authorizes the existence of a project. It provides the project manager with the authority to apply organizational resources to project activities.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 18": "True or False: A Project is defined as being unique and temporary, with an undefined start and finish.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 19": "True or False: The Crashing is the approach to re-plan the work and try to perform more overlapping sequential activities to be in parallel.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 20": "You have finished planning and have begun executing the project when the client asks if you would shorten the project duration so that the project can finish 2 weeks earlier than the original plan. How are the triple constraints affected?",
+    "Đáp án đúng": "A. Scope and cost may both be affected"
+  },
+  {
+    "Câu 21": "You have finished planning and have begun executing the project when the client asks if you would add some important features to the product of the project. How are the triple constraints affected?",
+    "Đáp án đúng": "A. Time and cost may both be affected"
+  },
+  {
+    "Câu 22": "When you report project status you compare actual performance to.",
+    "Đáp án đúng": "D. The planned performance or baseline"
+  },
+  {
+    "Câu 23": "True or False: The Project Budget is equal to only the Cost Baseline budget.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 24": "True or False: The Project Budget is equal to the Cost Baseline budget plus Management Reserve.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 25": "True or False: A negative risk is an opportunity, a positive risk is a threat.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 26": "Which of the following is NOT the output of Plan Scope Management process? (Choose 2 answers)",
+    "Đáp án đúng": "CD"
+  },
+  {
+    "Câu 27": "Which of the following is NOT the output of Plan Scope Management process? (Choose 2 answers)",
+    "Đáp án đúng": "CD"
+  },
+  {
+    "Câu 28": "Which of the following is NOT the output of Plan Scope Management process? (Choose 2 answers)",
+    "Đáp án đúng": "CD"
+  },
+  {
+    "Câu 29": "The client demands changes to the product specification that will add only two weeks to the critical path. Which of the following is the best thing for the project manager to do?",
+    "Đáp án đúng": "C. Consult with the sponsor before taking any action."
+  },
+  {
+    "Câu 30": "Which of the following best describes a project management plan?",
+    "Đáp án đúng": "A. Scope, risk, resource and other management plan"
+  },
+  {
+    "Câu 31": "Which of the following best describes a project management plan?",
+    "Đáp án đúng": "C. Risk, human resource, process improvement, and other management plans"
+  },
+  {
+    "Câu 32": "As discussed in the Project Management course, The PMBOK® Guide process group that has processes in all 10 knowledge areas is:",
+    "Đáp án đúng": "D. Planning"
+  },
+  {
+    "Câu 33": "As discussed in the Project Management course, The PMBOK® Guide describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
+    "Đáp án đúng": "A. Stakeholder, Communication, Human Resource"
+  },
+  {
+    "Câu 34": "As discussed in the Project Management course, The PMBOK® Guide knowledge area that has processes in all 5 process groups is:",
+    "Đáp án đúng": "A. Project Integration Management"
+  },
+  {
+    "Câu 35": "Consider a scenario in which you learn that your project is running two weeks behind schedule. How would you know if it is acceptable to be two weeks late?",
+    "Đáp án đúng": "D. Your variance thresholds should be documented in your project management plan, look there for guidance."
+  },
+  {
+    "Câu 36": "The discipline of quality management complements the discipline of project management. Both recognize all but one of the following:",
+    "Đáp án đúng": "A. Management satisfaction"
+  },
+  {
+    "Câu 37": "The discipline of quality management complements the discipline of project management. Both recognize all but one of the following:",
+    "Đáp án đúng": "D. Project team responsibility"
+  },
+  {
+    "Câu 38": "Which one is not in the five project management process groups as described in the PMBOK® Guide?",
+    "Đáp án đúng": "F. Tracking"
+  },
+  {
+    "Câu 39": "A company is making an effort to improve its project performance and create historical records of past projects. What is the best way to accomplish this?",
+    "Đáp án đúng": "A. Create lessons learned"
+  },
+  {
+    "Câu 40": "All the following are parts of an effective change management plan EXCEPT:",
+    "Đáp án đúng": "B. Lessons learned"
+  },
+  {
+    "Câu 41": "Scope creep results in:",
+    "Đáp án đúng": "A. Completion delays, escalation of costs, and increase in project complexity"
+  },
+  {
+    "Câu 42": "To calculate late finish (LF) of an activity which has only one successor, you will",
+    "Đáp án đúng": "A. Take the late start of its immediate successor."
+  },
+  {
+    "Câu 43": "To calculate late finish (LF) of an activity which has more than one successor, you will",
+    "Đáp án đúng": "B. Take the earliest late finish of its immediate successors."
+  },
+  {
+    "Câu 44": "When you have good historical information which can be used in a reliable formula or model, you will probably use:",
+    "Đáp án đúng": "A. Parametric estimating"
+  },
+  {
+    "Câu 45": "True or False: Project Human Resource Management includes the processes that define the tasks and assign them to suitable resources, and motivate project team to complete the tasks.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 46": "True or False: Project Human Resource Management includes the processes that organize, manage, and lead the project team.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 47": "The triple constraint are___",
+    "Đáp án đúng": "A. Scope, Cost, Time"
+  },
+  {
+    "Câu 48": "The three components of the triple constraint are:",
+    "Đáp án đúng": "A. Scope, Cost, Time"
+  },
+  {
+    "Câu 49": "A project manager checks his project status by applying earned value management technique and he got the CPI of his project is 150% AND SPI of his project is 90%. Which of following is a suitable description for his project status?",
+    "Đáp án đúng": "B. The project is behind the schedule and under the budget"
+  },
+  {
+    "Câu 50": "Which of the following is NOT true regarding milestones?",
+    "Đáp án đúng": "B. They are completely defined in the project charter"
+  },
+  {
+    "Câu 51": "You are the project manager of the large project and you are requesting your team members to create the work breakdown structure. Some of team members are angry that you are asking them to do \"extra work\". Which of the following is the best thing you could tell the members to convince them to use work breakdown structure?",
+    "Đáp án đúng": "D. Work breakdown structure will prevent work from slipping through the cracks"
+  },
+  {
+    "Câu 52": "You are assigned as the project manager in the middle of the project. The project is within the baseline, but the customer is not happy with the performance of the project. What is the first thing you should do?",
+    "Đáp án đúng": "D. Meet with the customer"
+  },
+  {
+    "Câu 53": "Which of the following is the most correct statement regarding management and contingency reserves?",
+    "Đáp án đúng": "A. Both of them are included into the cost budget of the project."
+  },
+  {
+    "Câu 54": "True or False: The Forward Pass is used through the activities to determine the critical path & available float of the project.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 55": "Your project team is customer focused and often agrees to incorporate many small scope changes throughout the project execution. The changes are documented in an issues log. Which of the following is not a potential problem?",
+    "Đáp án đúng": "D. Changes with impacts on cost or time will be elevated to the Change Control Board."
+  },
+  {
+    "Câu 56": "Project scope differs from product scope in that:",
+    "Đáp án đúng": "A. Project scope is the work that needs to be accomplished to deliver a product, service, or result."
+  },
+  {
+    "Câu 57": "Your Schedule Performance Index (SPI) is lesser than 1 means you are:",
+    "Đáp án đúng": "B. behind schedule."
+  },
+  {
+    "Câu 58": "Your Schedule Performance Index (SPI) is greater than 1 means you are:",
+    "Đáp án đúng": "C. ahead of schedule."
+  },
+  {
+    "Câu 59": "After sequencing tasks in a project, you get this activity network diagram, which is its duration by applying critical path analysis.",
+    "Đáp án đúng": "C. 12 weeks"
+  },
+  {
+    "Câu 60": "True or False: Earned value integrates quality, scope and schedule and uses monetary values to assess project status.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 61": "All of the following are parts of the scope baseline EXCEPT the:",
+    "Đáp án đúng": "A. Scope management plan"
+  },
+  {
+    "Câu 62": "True or False: The best organization to use to run a project will always be the projectized organization.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 63": "The project manager has just received a change request from the customer that does not affect the project schedule and is easy to complete. What should the project manager do FIRST?",
+    "Đáp án đúng": "D. Evaluate the impacts on other project constraints"
+  },
+  {
+    "Câu 64": "True or False: The critical path is the shortest path through the network and represents the work that can be delayed without delaying the end of the project",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 65": "All of the following are inputs to estimating activity durations except:",
+    "Đáp án đúng": "C. Requirements specifications"
+  },
+  {
+    "Câu 66": "All of the following are inputs to estimating activity durations except:",
+    "Đáp án đúng": "C. Project Documents Updates & Requirements Specifications"
+  },
+  {
+    "Câu 67": "Which of the components below do you think NOT belong in the cost management plan?",
+    "Đáp án đúng": "D. RACI matrix"
+  },
+  {
+    "Câu 68": "Considering a situation in which you need to share an important announcement with your project team. Select the best communication option for the scenario:",
+    "Đáp án đúng": "B. Invite them to a quick meeting to share the announcement and then follow-up."
+  },
+  {
+    "Câu 69": "True or False: Product quality focuses on the goods and services.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 70": "Which of the following is NOT the disadvantages of top-down estimating?",
+    "Đáp án đúng": "A. Costly to create"
+  },
+  {
+    "Câu 71": "You just came from a meeting with one of your project stakeholders, he knew about your project and also its potential impacts, and he always supported for the work and its outcomes. How would you classify him?",
+    "Đáp án đúng": "A. Supportive"
+  },
+  {
+    "Câu 72": "You just came from a meeting with one of your project stakeholders, he knew about your project and was not against it, but did not seem to be particularly interested in it either. How would you classify him?",
+    "Đáp án đúng": "B. Neutral"
+  },
+  {
+    "Câu 73": "A significant event in a project that may indicate completion of a major phase is a/an:",
+    "Đáp án đúng": "B. Milestone"
+  },
+  {
+    "Câu 74": "You should use parametric estimating when your historical information used to develop the model was qualitative and not readily quantifiable.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 75": "True or False: The Cost Baseline is equal to the total of Activity Cost Estimates plus Contingency Reserves.",
+    "Đáp án đúng": "B. False"
+  },
+  {
+    "Câu 76": "True or False: The Cost Baseline is equal to the total of Activity Cost Estimates.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 77": "The Project Scope Statement should not include?",
+    "Đáp án đúng": "D. Project charter."
+  },
+  {
+    "Câu 78": "As you plan your project, you do so thinking that all team members will be assigned to your project for at least 50% of their available time. This is an example of:",
+    "Đáp án đúng": "D. An assumption"
+  },
+  {
+    "Câu 79": "If \"develop online modules\" must be 100% completed before \"review online modules\" can begin, that is called a:",
+    "Đáp án đúng": "A. Finish to start relationship."
+  },
+  {
+    "Câu 80": "If \"develop online modules\" needs to finish before \"review online modules\" can finish, that is called a:",
+    "Đáp án đúng": "A. Finish to finish relationship."
+  },
+  {
+    "Câu 81": "True or False: If \"develop online modules\" needs to begin before \"review online modules\" can begin, that is called a start to start relationship.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 82": "What is a program?",
+    "Đáp án đúng": "B. A means to gain benefits and control of related project"
+  },
+  {
+    "Câu 83": "True or False: The Process Improvement Plan is a component of the project management plan that details how project management and development processes are to be analyzed in order to identify how to reduce their value",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 84": "True or False: The Process Improvement Plan is a component of the project management plan that details how project management and development processes are to be analyzed in order to identify how to increase their value",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 85": "True or False: The Backward Pass is used through the activities to determine the total duration of the project.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 86": "True or False: The Backward Pass is used through the activities to determine the critical path & available float of the project.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 87": "True or False: Using bottom-up estimating techniques when activity durations or resource quantities are uncertain.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 88": "During project executing, a team member comes to the project manager because he is not sure what work he needs to accomplish on the project. Which of the following documents contains detailed descriptions of work packages?",
+    "Đáp án đúng": "A. WBS dictionary"
+  },
+  {
+    "Câu 89": "True or False: Performing quality assurance within the context of a project involves applying the planned, systematic quality activities to ensure that the project correctly employs all processes needed to meet project objectives and product requirements.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 90": "Scope creep results in all of the followings, except:",
+    "Đáp án đúng": "D. Decreases in project complexity"
+  },
+  {
+    "Câu 91": "True or False: Unregulated changes allow for innovation and flexibility. Regulating changes causes a lack of creativity.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 92": "A cost can be either variable or fixed. Which of the following statements are correct ( choose 2 answers)?",
+    "Đáp án đúng": "AB"
+  },
+  {
+    "Câu 93": "Which one of these is not the approaches to conflict discussed in the Project Human Resources Management Lesson?",
+    "Đáp án đúng": "F. Challenging"
+  },
+  {
+    "Câu 94": "Which one of these is not the approaches to conflict discussed in the Project Human Resources Management Lesson?",
+    "Đáp án đúng": "F. Uninteresting"
+  },
+  {
+    "Câu 95": "True or False: Influence means you have the right to apply resources, make decisions and give approvals.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 96": "When you schedule work in a specific order because it cannot be completed any other way, what is the type of dependency used?",
+    "Đáp án đúng": "C. Mandatory"
+  },
+  {
+    "Câu 97": "True or False: The Project Charter is a document that formally authorizes the existence of a project. It also document initial requirements that satisfy the stakeholder's needs and expectations.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 98": "Which one is the correct matching of report types and the descriptions?",
+    "Đáp án đúng": "F. 1 & c, 2 & b, 3 & a"
+  },
+  {
+    "Câu 99": "The primary role of the project manager is:",
+    "Đáp án đúng": "C. Communication"
+  },
+  {
+    "Câu 100": "Which one of these is the correct view of conflict?",
+    "Đáp án đúng": "A. Inevitable"
+  },
+  {
+    "Câu 101": "True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed just by the Project Manager.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 102": "True or False: A Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed by the project team.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 103": "Which one of these is an example of role conflict:",
+    "Đáp án đúng": "C. When two team members are trying to complete the same task."
+  },
+  {
+    "Câu 104": "The start time of the project (the early start of the first activity) can be \"zero\" or \"one\" depending on your chosen convention.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 105": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those informed persons are:",
+    "Đáp án đúng": "C. Being kept updated about project progress"
+  },
+  {
+    "Câu 106": "True or False: Your project might pay more in order to reduce the schedule when using Crashing approach, but that is not often true if using Fast Tracking approach",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 107": "True or False: Earned value integrates scope, schedule and budget and uses monetary values to assess project status.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 108": "You are beginning to staff your project. Which of the following will NOT be used in developing and/or communicating roles and responsibilities?",
+    "Đáp án đúng": "D. Run chart"
+  },
+  {
+    "Câu 109": "Which one is not mentioned explicitly in the three components of the triple constraints:",
+    "Đáp án đúng": "A. Quality"
+  },
+  {
+    "Câu 110": "Project integration is done by the:",
+    "Đáp án đúng": "C. Project manager"
+  },
+  {
+    "Câu 111": "Project charter is created in which project management process group?",
+    "Đáp án đúng": "E. Initiating"
+  },
+  {
+    "Câu 112": "Being prepared to do a complete job of developing and finalizing the scope baseline requires that you have done a thorough and timely job of identifying and analyzing stakeholders, and of collecting requirements. The development of the scope baseline can best be described as involving:",
+    "Đáp án đúng": "B. The project team"
+  },
+  {
+    "Câu 113": "Which one of these is not the major source of conflict that a project manager may influence?",
+    "Đáp án đúng": "C. Project team"
+  },
+  {
+    "Câu 114": "True or False: Project quality focuses on the goods and services",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 115": "Which of the following is included in a project charter?",
+    "Đáp án đúng": "D. The business case for the project"
+  },
+  {
+    "Câu 116": "All of the following tools and techniques can be valuable in risk identification, EXCEPT:",
+    "Đáp án đúng": "B. EVM (Earned Value Management)"
+  },
+  {
+    "Câu 117": "The following table is an activity list that includes the duration and predecessor for a series of project activities What is the duration of the critical path?",
+    "Đáp án đúng": "D. 14"
+  },
+  {
+    "Câu 118": "Downward communication is communication to/from:",
+    "Đáp án đúng": "C. Your direct reports."
+  },
+  {
+    "Câu 119": "True or False: Effective project communication management creates a bridge between stakeholders based on a shared understanding of the project and the ongoing sharing of information needed for its success.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 120": "True or False: In a projectized organization, team members are never assigned to the project full time.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 121": "Your project has a team of which consists of yourself, a tester, five developers and a communicator. How many communication channels on your team?",
+    "Đáp án đúng": "C. 28"
+  },
+  {
+    "Câu 122": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those accountable persons are:",
+    "Đáp án đúng": "A. Making the final decision"
+  },
+  {
+    "Câu 123": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those consulted persons are:",
+    "Đáp án đúng": "A. Providing subject matter expertise"
+  },
+  {
+    "Câu 124": "When you use the RACI or Responsible, Accountable, Consult, Inform version of the RAM, those responsible persons are:",
+    "Đáp án đúng": "D. Completing the work"
+  },
+  {
+    "Câu 125": "Which one of these most correctly defines management reserve?",
+    "Đáp án đúng": "B. Management reserve is not tied to specific work packages it is for the entire project."
+  },
+  {
+    "Câu 126": "True or False: Performing quality control within the context of a project involves taking actions to eliminate causes of unsatisfactory project performance",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 127": "Identify the five engagement levels of stakeholders:",
+    "Đáp án đúng": "D. Unaware, resistant, neutral, supportive, leading"
+  },
+  {
+    "Câu 128": "True or False: Using bottom-up estimating techniques when the detail is available and the accuracy is needed.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 129": "The team is helping the project manager to estimate activities on their project. There are several activities they need to estimate that have not been previously done by the company. What is the best method of estimating these activities?",
+    "Đáp án đúng": "B. Three-point estimating"
+  },
+  {
+    "Câu 130": "You just came from a meeting with one of your project stakeholders, he knew well about your project and also its potential impacts, and actively engaged in ensuring that the project is a success. How would you classify him?",
+    "Đáp án đúng": "C. Leading"
+  },
+  {
+    "Câu 131": "Your sponsor informs you that you must receive local government approval of your proposed building design before you can begin construction of your building. This dependency is:",
+    "Đáp án đúng": "C. External"
+  },
+  {
+    "Câu 132": "To calculate early start (ES) of an activity which has more than one immediate predecessors, you will",
+    "Đáp án đúng": "C. Take the latest early finish of its immediate predecessors."
+  },
+  {
+    "Câu 133": "True or False: Quality management is the job done by project manager himself/herself to determine quality policies, objectives, and responsibilities so that the project will satisfy the needs for which it was undertaken.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 134": "True or False: If you want to identify who your stakeholders are, asking who will not be impacted by the product or service being created can be helpful.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 135": "True or False: Performance reporting aims to inform stakeholders the good achievements of the project's objectives weekly or monthly.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 136": "Which of the following best describes the project manager's role as an integrator?",
+    "Đáp án đúng": "B. Put all the pieces of a project into a cohesive whole"
+  },
+  {
+    "Câu 137": "The purpose of project risk management is to",
+    "Đáp án đúng": "A. Minimize the likelihood or the impact of negative events or threats to your project and to increase the likelihood or impact of positive events"
+  },
+  {
+    "Câu 138": "True or False: You should compare your project performance against the performance measurement baseline to look for potential changes in the project",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 139": "Which one of these is correct view of conflict?",
+    "Đáp án đúng": "A. Can (and should) be managed"
+  },
+  {
+    "Câu 140": "You are building an apartment complex with four, 10,000 square foot buildings based on the same drawings you used in another city two years ago. What is the danger of estimating using the same parametric model of $50 per square foot?",
+    "Đáp án đúng": "C. Historical cost relationships may no longer be applicable."
+  },
+  {
+    "Câu 141": "If the response you choose is to accept a risk this means that:",
+    "Đáp án đúng": "B. You actively do not consider the risk but establish contingency plan."
+  },
+  {
+    "Câu 142": "To ensure control over the incidence and frequency of change, the project manager establishes a:",
+    "Đáp án đúng": "D. Change control process"
+  },
+  {
+    "Câu 143": "You have a project to build a new fence. The fence will form a square. Each side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3 . Using the following project status chart to calculate project current CV",
+    "Đáp án đúng": "E. CV=$150"
+  },
+  {
+    "Câu 144": "You have a project to build a new fence. The fence will form a square. Each side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3. Using the following project status chart to calculate project current BAC:",
+    "Đáp án đúng": "C. BAC= $4,000"
+  },
+  {
+    "Câu 145": "You have a project to build a new fence. The fence will form a square. Each side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3.Side 4Day 1Day 2SFSDay 3Day 4Status End of Day 3. Using the following project status chart to calculate project current SV:",
+    "Đáp án đúng": "A. SV = $250"
+  },
+  {
+    "Câu 146": "A project manager has little project experience, but she has been assigned as the project manager of a new project. Because she will be working in a matrix organization to complete her project, she can expect communications to be",
+    "Đáp án đúng": "C. Complex"
+  },
+  {
+    "Câu 147": "Which project management process group generally takes the most project time and resources?",
+    "Đáp án đúng": "C. Executing"
+  },
+  {
+    "Câu 148": "The 8-80 rule refers to:",
+    "Đáp án đúng": "D. Work packages should be between 8 and 80 hours of effort"
+  },
+  {
+    "Câu 149": "A cost can be either direct or indirect. Which of the following statements are correct? (choose 2 answers)",
+    "Đáp án đúng": "BD"
+  },
+  {
+    "Câu 150": "True or False: The term resources only refers to people, it does not include money or materials or equipment.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 151": "Your Cost Performance Index (CPI) is greater than 1 means you are:",
+    "Đáp án đúng": "B. under budget."
+  },
+  {
+    "Câu 152": "All of the following is responsible for documenting lessons learned, except:",
+    "Đáp án đúng": "D. Key competitors"
+  },
+  {
+    "Câu 153": "The five project management process groups as described in the PMBOK® Guide and discussed in the preceding lesson are:",
+    "Đáp án đúng": "D. Initiating, planning, executing, monitoring and controlling, closing"
+  },
+  {
+    "Câu 154": "During executing, the project manager determines that a change is needed to material purchased for the project. The project manager calls a meeting of the team to plan how to make the changes. This is an example of:",
+    "Đáp án đúng": "B. Lack of a change management plan"
+  },
+  {
+    "Câu 155": "We discussed three types of matrix organizations, they are:",
+    "Đáp án đúng": "C. Weak, Balanced and Strong"
+  },
+  {
+    "Câu 156": "True or False: The primary output from the identification of risks is the risk register.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 157": "True or False: The Project Manager is responsible for stakeholder expectations management.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 158": "In a project context, risk is defined as:",
+    "Đáp án đúng": "C. An uncertain event that, if it occurs, will have a positive or negative effect on at least one project objective."
+  },
+  {
+    "Câu 159": "Some of the major sources of conflict that a project manager may influence are:",
+    "Đáp án đúng": "B. Personality conflict, schedules, resources"
+  },
+  {
+    "Câu 160": "Two team members disagree on how to solve a project issue. They express their disagreement and then engage in a professional debate. This is an example of:",
+    "Đáp án đúng": "C. Healthy conflict."
+  },
+  {
+    "Câu 161": "Which one of these most correctly defines contingency reserve?",
+    "Đáp án đúng": "C. Contingency reserve is tied to specific work packages or activities."
+  },
+  {
+    "Câu 162": "True or False: Authority means you have the right to apply resources, make decisions and give approvals.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 163": "In Earned Value Management Technique, you can compute the Cost Performance Index (CPI) by applying which of following formula?",
+    "Đáp án đúng": "D. CPI = EV / AC"
+  },
+  {
+    "Câu 164": "In Earned Value Management Technique, you can compute the Estimate At Completion (EAC) by applying which of following formula? (Notes: BAC: Budget At Completion)",
+    "Đáp án đúng": "D. EAC = BAC / CPI"
+  },
+  {
+    "Câu 165": "In Earned Value Management Technique, you can compute the Estimate To Completion (ETC) by applying which of following formula? (Notes. EAC. Estimate At Completion)",
+    "Đáp án đúng": "A. ETC = EAC - AC"
+  },
+  {
+    "Câu 166": "Which of the following is true about the development of a project charter?",
+    "Đáp án đúng": "D. The project manager creates the project charter, and the sponsor approves it"
+  },
+  {
+    "Câu 167": "True or False: In the context of a project, change is always a bad thing.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 168": "Which process groups must be included in every project?",
+    "Đáp án đúng": "C. Initiating, planning, executing, monitoring and controlling, closing"
+  },
+  {
+    "Câu 169": "Once you and your team identify and assess risks and develop responses you:",
+    "Đáp án đúng": "D. Continue to identify and monitor risks for the remainder of the project."
+  },
+  {
+    "Câu 170": "True or False: It should not to add extra cost to the estimates when you are concerned that your estimates might not be correct, especially if you think they are too low.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 171": "An output of the Close Project or Close Phase process is the creation of:",
+    "Đáp án đúng": "A. Project archives"
+  },
+  {
+    "Câu 172": "True or False: If you are not certain who your stakeholders are, asking who will use the product or service being created can be helpful.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 173": "If the response you choose is to transfer a risk this means that:",
+    "Đáp án đúng": "C. You change your plan so that another party will be responsible for the risk."
+  },
+  {
+    "Câu 174": "A Communications Management Plan does the following:",
+    "Đáp án đúng": "B. Lays out the approach and method for delivering information effectively and efficiently."
+  },
+  {
+    "Câu 175": "A project manager is currently managing a manufacturing process improvement project that will be completed in five phases. The project manager has prepared the following status chart of the project by the end of 10/31. Based on the information provided. What is the actual cost of the project?",
+    "Đáp án đúng": "C. AC= $8.000"
+  },
+  {
+    "Câu 176": "A useful tool in identifying risks is the SWOT analysis. What does SWOT stand for?",
+    "Đáp án đúng": "A. Strengths, opportunities, weaknesses, and threats"
+  },
+  {
+    "Câu 177": "True or False: Conflict management is the process by which the project manager uses appropriate managerial techniques to deal with the inevitable disagreements that develop among those working toward project accomplishment.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 178": "One way to classify your stakeholders is to use the Power/Interest Grid. If a stakeholder is low interest / low power, what should the Project Manager do?",
+    "Đáp án đúng": "A. Monitor"
+  },
+  {
+    "Câu 179": "One way to classify your stakeholders is to use the Power/Interest Grid. If a stakeholder is high interest / high power, what should the Project Manager do?",
+    "Đáp án đúng": "C. Manage closely"
+  },
+  {
+    "Câu 180": "Given 14.000 USD is the most likely of the estimated cost of the activity, 8.000USD is the optimistic value and 26.000USD is the pessimistic one. By using the PERT (Program Evaluation and Review Technique) analysis to calculate the expected activity cost, which of the following is the result?",
+    "Đáp án đúng": "C. 15.000 USD"
+  },
+  {
+    "Câu 181": "True or False: Product quality focuses on the project management processes used to meet project objectives.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 182": "True or False: Performance reporting aims to inform stakeholders how resources are being used to achieve the project's objectives.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 183": "Your stakeholder register should not contain:",
+    "Đáp án đúng": "D. Scope information"
+  },
+  {
+    "Câu 184": "True or False: The Project Sponsor is responsible for stakeholder expectations management.",
+    "Đáp án đúng": "A. False"
+  },
+  {
+    "Câu 185": "True or False: Your role as the project manager during quality control is to implement the quality management plan using the appropriate tools and techniques, in order to ensure that work is being performed according to required quality standards.",
+    "Đáp án đúng": "B. True"
+  },
+  {
+    "Câu 186": "True or False: Project quality focuses on the project management processes used to meet project objectives.",
+    "Đáp án đúng": "B. True"
+  },
+  {
+    "Câu 187": "As part of planning you have created a scope baseline, a budget baseline, and a schedule baseline. Should those baselines ever be allowed to change?",
+    "Đáp án đúng": "D. Yes, if the baseline is completely unachievable and the project sponsor approves it."
+  },
+  {
+    "Câu 188": "A project manager is trying to complete a software development project, but cannot get enough attention for the project. Resources are focused on completing process-related work, and the project manager has little authority to assign resources. What form of organization must the project manager be working in?",
+    "Đáp án đúng": "A. Functional"
+  },
+  {
+    "Câu 189": "All the following occur during the planning process group EXCEPT:",
+    "Đáp án đúng": "A. Develop Project Charter"
+  },
+  {
+    "Câu 190": "Which of the following is a characteristic of project management process?",
+    "Đáp án đúng": "A. Iterative"
+  },
+  {
+    "Câu 191": "True or false, a project manager spend most of his/her time communicating",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 192": "True or False: The sender is responsible to make the information clear, complete, and appropriate to the needs of the receiver. The receiver is responsible to provide feedback to acknowledge that the message has been received and understood.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 193": "A project manager's primary responsibility is to deliver the product of the project within project constraints. Actions taken and changes made to the benefit of one constraint could negatively affect another. Which of the following best describes the major constraints on a project?",
+    "Đáp án đúng": "C. Scope, schedule, cost, quality, risk, resources, and customer satisfaction"
+  },
+  {
+    "Câu 194": "Which one of below situations is not correct when discussing about Responsibility Assignment Matrix?",
+    "Đáp án đúng": "D. Two team members are accountable for the same task"
+  },
+  {
+    "Câu 195": "A past project took 20,000 hours to complete. Your new project is adding some additional scope and that scope is estimated to take 10,000 additional hours. There is some work that was completed in the previous project that will not be completed in this project. That work is estimated at 5,000 hours. Labor rates have increased 10%, the old rate was $25 per hour. Your estimate for the new project is $687,500. Which estimating method is used?",
+    "Đáp án đúng": "C. Bottom-up estimating"
+  },
+  {
+    "Câu 196": "A project management plan should be realistic in order to be used to manage the project. Which of the following is the best method to achieve a realistic project management plan?",
+    "Đáp án đúng": "D. The project manager creates the project management plan based on input from the team"
+  },
+  {
+    "Câu 197": "The Project Scope Statement should include the following:",
+    "Đáp án đúng": "C. Project deliverables, project constraints, project assumptions."
+  },
+  {
+    "Câu 198": "The Risk Management Plan is a subsidiary to the____document.",
+    "Đáp án đúng": "A. Project Management Plan"
+  },
+  {
+    "Câu 199": "True or False: The S-Curve depicts the relationship between the cost baseline budget and the schedule because it shows the planned cost baseline budget across the planned project timeline.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 200": "Lateral communication is communication to/from:",
+    "Đáp án đúng": "D. Your peers."
+  },
+  {
+    "Câu 201": "You and another project manager disagree over whether a team member should work on your team or on her team. You decide that the team member can work for the other project manager in the afternoon and the other project manager says it is OK for the team member to work for you in the morning. The truth is you both wanted this person fulltime. The conflict resolution approach you have both used is:",
+    "Đáp án đúng": "A. Compromising"
+  },
+  {
+    "Câu 202": "True or False: Project scope statement is better to define inclusions (in-scope items) than identify only exclusions (out of scope items).",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 203": "Another important part of the scope statement is Project Exclusions. If the response you choose is to mitigate a risk this means that:",
+    "Đáp án đúng": "D. You create your plan to reduce the probability and/or the impact of the risk"
+  },
+  {
+    "Câu 204": "The project sponsor has just signed the project charter. What is the next thing to do?",
+    "Đáp án đúng": "D. Start to create management plans"
+  },
+  {
+    "Câu 205": "What are the 5 approaches to conflict discussed in the Project Human Resources Management Lesson?",
+    "Đáp án đúng": "C. Confronting, Compromising, Smoothing, Forcing, Avoiding."
+  },
+  {
+    "Câu 206": "Who is the stakeholder that has the most influence on your current running project?",
+    "Đáp án đúng": "D. Sponsor"
+  },
+  {
+    "Câu 207": "Which one is not the different between assumptions and constraints?",
+    "Đáp án đúng": "B. Constraints are believed to be true, while assumptions are true in nature."
+  },
+  {
+    "Câu 208": "True or False: When it comes to projects, the emphasis is on strategic quality management. Quality is not an accident, quality is part of the plan, and quality is everyone's job.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 209": "Given Tm is the most likely of the estimated duration of the activity, To is the optimistic value and Tp is the pessimistic one. The PERT (Program Evaluation and Review Technique) analysis calculates the expected activity duration (Te) using which of the weighted average of these three estimates?",
+    "Đáp án đúng": "D. Te = (Tp + 4*Tm + To)/6"
+  },
+  {
+    "Câu 210": "The best time to assign a project manager to a project is during:",
+    "Đáp án đúng": "A. Initiating"
+  },
+  {
+    "Câu 211": "True or False: Each person involved in the project should be assigned, but doesn't always need to know his or her role and responsibility",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 212": "Company procedures require the creation of a lessons learned register. Which of the following is the best use of lessons learned?",
+    "Đáp án đúng": "A. Historical records for future projects"
+  },
+  {
+    "Câu 213": "Different estimating techniques serve different purpose, which of the following statements are correct (choose 2 answers)?",
+    "Đáp án đúng": "AB"
+  },
+  {
+    "Câu 214": "In a matrix-based organization:",
+    "Đáp án đúng": "E. The power of project manager and the power of managers of teams are depending on the organization's specific matrix type"
+  },
+  {
+    "Câu 215": "A project is plagued by requested changes to the project charter. Who has the primary responsibility to decide if these changes are necessary?",
+    "Đáp án đúng": "C. The sponsor"
+  },
+  {
+    "Câu 216": "True or False: Project Manager should consider using milestones for high level reporting.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 217": "Which one is NOT the approach to shorten your project schedule?",
+    "Đáp án đúng": "C. Reducing"
+  },
+  {
+    "Câu 218": "A market demand, a business need, and a legal requirement are examples of",
+    "Đáp án đúng": "B. Reasons projects are initiated"
+  },
+  {
+    "Câu 219": "Which organization structure can provide the most power for the project manager?",
+    "Đáp án đúng": "E. Projectized"
+  },
+  {
+    "Câu 220": "Which one is correct view of conflict?",
+    "Đáp án đúng": "A. Natural result of change"
+  },
+  {
+    "Câu 221": "True or False: Each group of persons involved in the project should be assigned, and always needs to know their role and responsibility.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 222": "Which one is not the causes of scope creep?",
+    "Đáp án đúng": "D. Increased understanding of what is takes to get it done"
+  },
+  {
+    "Câu 223": "Lateral communication is NOT communication to/from:",
+    "Đáp án đúng": "C. Your subordinates."
+  },
+  {
+    "Câu 224": "Your project had a team of which consists of yourself, a tester, five developers and a communicator. As the project is behind schedule so one more developer has been assigned to your team. How many communication channels on your team now?",
+    "Đáp án đúng": "D. 36"
+  },
+  {
+    "Câu 225": "True or False: The danger of estimating using the same parametric model is the no longer applicable of historical data.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 226": "Which item would most likely NOT be part of a basic communication plan.",
+    "Đáp án đúng": "B. The amount of their annual bonus."
+  },
+  {
+    "Câu 227": "To calculate late start (LS) of an activity, you will",
+    "Đáp án đúng": "A. Take its late finish minus its estimated duration."
+  },
+  {
+    "Câu 228": "You have a project to build a new fence. The fence will form a square. Cash side is to take one day to build, and $1,000 has been budgeted per side. The sides are planned to be completed one after the other. Today is the end of day 3. Using the following project status chart to calculate project current PV:",
+    "Đáp án đúng": "A. PV = $3.000"
+  },
+  {
+    "Câu 229": "A project manager can defend against scope creep with a good____________!",
+    "Đáp án đúng": "B. Change control process"
+  },
+  {
+    "Câu 230": "Your stakeholder register is your primary output and should at least contain:",
+    "Đáp án đúng": "C. Assessment information, identification information, and stakeholder classification"
+  },
+  {
+    "Câu 231": "If \"review online modules\" needs to begin before \"develop online modules\" can finish, that is called a:",
+    "Đáp án đúng": "B. Start to finish relationship."
+  },
+  {
+    "Câu 232": "To manage a project effectively, work should be broken down into small pieces. Which of the following does not describe how far to decompose the work?",
+    "Đáp án đúng": "C. Until it can be done by one person"
+  },
+  {
+    "Câu 233": "What description defines Bottoms Up Estimating?",
+    "Đáp án đúng": "C. A technique that involves estimating the cost of individual work packages or individual schedule activities with the lowest level of detail."
+  },
+  {
+    "Câu 234": "Which of the following action should not include in the Scope Management Plan?",
+    "Đáp án đúng": "E. Define how to identify and manage triple constraints"
+  },
+  {
+    "Câu 235": "The definition of a stakeholder includes",
+    "Đáp án đúng": "C. The people or organizations that are positively or negatively impacted by your project"
+  },
+  {
+    "Câu 236": "Which element should NOT be included in risk management plan?",
+    "Đáp án đúng": "D. Risk Register"
+  },
+  {
+    "Câu 237": "An estimate created by looking at a similar project or activity and then adding or subtracting to or from the estimate based on the differences between the two is called:",
+    "Đáp án đúng": "B. Analogous estimating"
+  },
+  {
+    "Câu 238": "The network diagram is the best tool for demonstrating:",
+    "Đáp án đúng": "D. The sequence of project activities"
+  },
+  {
+    "Câu 239": "Which statement is not correct?",
+    "Đáp án đúng": "D. Product scope is the work that needs to be accomplished to complete a project"
+  },
+  {
+    "Câu 240": "True or False: The primary goal of project risk management is to maximize the likelihood and impact of negative events or threats and to minimize the likelihood and impact of positive events or opportunities.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 241": "Which one is not the five engagement levels of stakeholders?",
+    "Đáp án đúng": "F. Monitoring"
+  },
+  {
+    "Câu 242": "When you and your team know that a positive risk has a high likelihood of occurring and it will be very beneficial if it does:",
+    "Đáp án đúng": "B. You should develop a contingency plan and ask your management for contingency reserve."
+  },
+  {
+    "Câu 243": "True or False: Risk management is one-time process. You need to plan for all possible risks at the project beginning and then follow defined actions to control those risks until they are closed or cancelled.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 244": "True or False: Your role as the project manager during quality assurance is to work with a quality assurance manager who will create a test plan and test cases which will be used to test the product you are creating in order to prevent defects from reaching your customer.",
+    "Đáp án đúng": "B. True"
+  },
+  {
+    "Câu 245": "True or False: Your role as the project manager during quality assurance is to implement the quality management plan using the appropriate tools and techniques, in order to ensure that work is being performed according to required quality standards.",
+    "Đáp án đúng": "B. True"
+  },
+  {
+    "Câu 246": "Operational work is different from project work in that operational work is:",
+    "Đáp án đúng": "C. Ongoing and repetitive"
+  },
+  {
+    "Câu 247": "True or False: Using top-down estimating techniques when the detail is available and the accuracy is needed.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 248": "Should the Project Scope Statement document include?",
+    "Đáp án đúng": "A. Acceptance criteria"
+  },
+  {
+    "Câu 249": "Which process group focuses on completing the requirements of the project?",
+    "Đáp án đúng": "C. Executing"
+  },
+  {
+    "Câu 250": "True or False: The worst organization to use to run a project will always be the functional organization.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 251": "True or False: Project Cost Management processes aim to help the project can be completed within the approved budget.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 252": "As discussed in the preceding lesson, The PMBOK® Guide describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
+    "Đáp án đúng": "B. Cost, Scope, Time"
+  },
+  {
+    "Câu 253": "The SPI is greater than one, you are ahead of schedule.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 254": "All the following are characteristics of a project EXCEPT:",
+    "Đáp án đúng": "D. It repeats itself every month"
+  },
+  {
+    "Câu 255": "In a functional organization:",
+    "Đáp án đúng": "D. The functional manager has stronger power than the project manager's power."
+  },
+  {
+    "Câu 256": "True or False: Scope creep represents the situation that the changes are made with the proper process and authority.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 257": "A company has been awarded a software development project which requires the development team to work at the client's office. The client has assigned each developer a cubicle from which to perform their work. During a daily standup meeting, a developer states that the team members are too isolated and colocating the team in a war room would increase productivity and quality. What should the project manager do first?",
+    "Đáp án đúng": "D. Capture a description of the developer's concern in the issue log"
+  },
+  {
+    "Câu 258": "A dashboard viewable by all project stakeholders displays various statuses using the industry standard of red, yellow, and green colors. Throughout project execution, to meet the needs of the project and some of the project stakeholders, the project manager has been adding more colors to reflect additional statuses. This situation has created confusion among some of the stakeholders over the status naming conventions and meanings. What should the project manager do?",
+    "Đáp án đúng": "B. Explain the meaning of the new statuses to the stakeholders"
+  },
+  {
+    "Câu 259": "A good change process will:",
+    "Đáp án đúng": "C. Have change thresholds that are appropriate for the type of change."
+  },
+  {
+    "Câu 260": "A key stakeholder has been resistant to the project's objectives, and the support of this stakeholder is vital to the success of the project. The project manager has employed various engagement strategies which have been ineffective and needs to determine the underlying reason that stakeholder engagement is not having the planned effect. What should the project manager do next?",
+    "Đáp án đúng": "B. Conduct data analysis"
+  },
+  {
+    "Câu 261": "A project is underway to construct a 50 story office building. With construction nearly complete, a government inspector has issued a stop order because one of the cranes failed inspection. The schedule reserves are inadequate to cover the resulting delay from the unavailability of the key resource. What should the project manager do next?",
+    "Đáp án đúng": "B. Submit a change request to update the schedule baseline"
+  },
+  {
+    "Câu 262": "You are managing a software upgrade project for your company. Your project sponsor has a great deal of authority regarding project decisions, but you recently discovered that he doesn't have much interest in your project. To complete the project successfully, you need your project sponsor's continuous support. What stakeholder management strategy should you use with your project sponsor?",
+    "Đáp án đúng": "A. Keep the sponsor satisfied"
+  },
+  {
+    "Câu 263": "You are managing the development of a new smartphone in an extremely competitive market. You are planning the must-have features of the smartphone in detail so that work can begin and the product can be released to the market as early as possible. The future features are unknown at the moment and will depend on what the competitors release. You will plan these features in greater detail later on. As you and your team create the work breakdown structure (WBS), what will you use to indicate the future features?",
+    "Đáp án đúng": "D. Planning packages"
+  },
+  {
+    "Câu 264": "You are part of a cross-functional organizational development team, piloting an adaptive approach to project management in an organization that has traditionally used a predictive approach. You realize that you have to tailor the template of the schedule management plan. Which of the following components of the template are you likely to tailor the most?",
+    "Đáp án đúng": "C. The schedule model development, the release and iteration length, and the reporting formats"
+  },
+  {
+    "Câu 265": "You are part of the project team designing a new type of subway car. You have completed the last work package for the braking system; however, you are not sure what the acceptance criteria are for this particular work package. Where can you find that information?",
+    "Đáp án đúng": "D. The WBS dictionary"
+  },
+  {
+    "Câu 266": "You are planning a project to construct a luxury condominium complex that will include jacuzzi tubs among its numerous features. Due to technical constraints, it has been decided to eliminate the jacuzzi tubs from the final project requirements. You document the jacuzzi tubs as an explicit scope exclusion in the project scope statement as well as update the requirements documentation to reflect this change. What should you do next?",
+    "Đáp án đúng": "A. Reflect the scope exclusion in the requirements traceability matrix"
+  },
+  {
+    "Câu 267": "You are preparing an estimate of the cost for an IT system expansion for a new branch office location. It is a very similar to the IT system expansion undertaken for a branch office that opened six months ago. Which technique might you use if you are pushed for a quick estimate?",
+    "Đáp án đúng": "D. Analogous"
+  },
+  {
+    "Câu 268": "You are the project manager for the construction of a new thin-crust pizza vending machine. You take all the information gathered in the project management plan to date and begin to develop a project schedule. When you reach the activity labeled as 6.5.3, you are unsure if a refrigeration specialist is needed for the installation of the cooling mechanism for the pizza dough. What project document would you reference in order to get information on the resources required for installing the cooling mechanism?",
+    "Đáp án đúng": "C. Activity attributes"
+  },
+  {
+    "Câu 269": "You are working with your team on estimating how much time each activity will take. One of the documents you are using contains information on categories of labor, material, and equipment required to complete your project. You are also interested to see skill levels of your labor, any certifications required, and grade levels of your supplies. Which of the following documents would you primarily refer to for this purpose?",
+    "Đáp án đúng": "A. Resource breakdown structure"
+  },
+  {
+    "Câu 270": "You have a stakeholder on your project who has a reputation as being very difficult. He dislikes change and argues against any suggested updates to the way in which his department does their work. The project you are leading is going to significantly impact at least two processes used by his team. Which do you think is the best response to the situation?",
+    "Đáp án đúng": "A. Seek him out and begin to open communications with him about what is changing and why."
+  },
+  {
+    "Câu 271": "You have completed a nine-month project, and you are in the closing stage. The project completed on time and under budget and everyone in your department has congratulated you on your achievement. The vice president of your company heard about the success of your project and wants a summary overview of project performance so that he can talk about your success at the next board meeting. What should you provide to him?",
+    "Đáp án đúng": "D. Final report"
+  },
+  {
+    "Câu 272": "You have just taken over a project to overhaul the company's telecommunications network. During your first week, you determine that the engineers spend at least 80% of their time responding to unexpected requests for information from different project stakeholders. Because of these interruptions, your engineers cannot focus on their assigned project activities, which is resulting in frequent network outages. What should you do first?",
+    "Đáp án đúng": "D. Review the communications management plan to understand how stakeholder requests should be handled"
+  },
+  {
+    "Câu 273": "You have recently been assigned to lead a project that is halfway into execution. The project has many stakeholders, and you are trying to determine how to engage them effectively. Which of the following will best help you in this effort?",
+    "Đáp án đúng": "A. Project management plan"
+  },
+  {
+    "Câu 274": "You work with your team to sequence activities on the project you are leading. You are looking for the factors, constraints, and potential dependencies among project activities that can influence the way activities are sequenced, as well as help you understand the relationship between activities and the need for leads and lags. Where could you find this information?",
+    "Đáp án đúng": "C. Assumption log"
+  },
+  {
+    "Câu 275": "Your boss is giving you a rough outline of the scope, constraints, and risks involved in a prospective client's project. The project is highly similar to another project you are currently closing. The sponsor wants to know how long this project would take your team to complete. You think your team may need two months, but what should your answer be?",
+    "Đáp án đúng": "C. \"If it truly resembles this project we are closing, it could be six to ten weeks.\""
+  },
+  {
+    "Câu 276": "Your company has just been awarded the contract for an important research project. The CEO of your company has asked you, as the project manager, to create the project charter and send it to her so that she can review and approve it. To create the project charter, you need the project's statement of work (SOW). What should you do?",
+    "Đáp án đúng": "C. Ask your customer to provide you with the SOW"
+  },
+  {
+    "Câu 277": "Your company was recently awarded a software development project, and you have just completed the scope management plan. The sponsor reviews the plan and states that the client specified the use of Scrum, while the plan indicates a waterfall approach. Which component of the project management plan did you most likely overlook while developing the scope management plan?",
+    "Đáp án đúng": "B. Development approach"
+  },
+  {
+    "Câu 278": "Your risk report shows that project risk exposure overall has grown close to a negative threshold. Before the next regular meeting, you ask risk owners to present any risks and opportunities that may affect short-term activities. In the meeting, it becomes clear that risk owners from less engaged departments did not implement some of the previously approved responses. What should you do now to reduce risk exposure?",
+    "Đáp án đúng": "B. Privately confront the risk owners with the issue and collaborate to remove any impediments to the risk responses"
+  },
+  {
+    "Câu 279": "Your sponsor has committed to building a high-speed rail from one major inland city, Azules, to the coast. You have two possible routes, either Brazos or Corazon. Given each route's costs, odds, and rewards of high demand and low demand in this decision tree, how would you quantify the expected monetary value of the route to Brazos?",
+    "Đáp án đúng": "C. 0.8 billion"
+  },
+  {
+    "Câu 280": "To calculate early finish (EF) of an activity, you will",
+    "Đáp án đúng": "A. Take its early start plus its estimated duration."
+  },
+  {
+    "Câu 281": "In a project schedule, the sequence of activities which cannot be delayed during the course of the project without extending the project end date is referred to as the:",
+    "Đáp án đúng": "A. Critical path"
+  },
+  {
+    "Câu 282": "Once the logic of a network is laid out, the project manager will conduct a forward pass and a backward pass through the network. This will provide information regarding ___ and will identify the___.",
+    "Đáp án đúng": "B. The total duration of the project, critical path"
+  },
+  {
+    "Câu 283": "The discipline of quality management complements the discipline of project management. Both recognize the importance of:",
+    "Đáp án đúng": "A. Customer satisfaction, prevention over inspection, continuous improvement, and management responsibility"
+  },
+  {
+    "Câu 284": "Who should take the most responsibility for clear and effective communication?",
+    "Đáp án đúng": "C. The sender and the receiver"
+  },
+  {
+    "Câu 285": "During status review meetings to evaluate project performance and progress, which tool or technique is NOT preferred to use?",
+    "Đáp án đúng": "D. Requirement analysis"
+  },
+  {
+    "Câu 286": "True or False: When you choose to transfer your project risk to a third party, it will definitely rise to secondary risk.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 287": "Who is the stakeholder that will ultimately use the product or service you are creating?",
+    "Đáp án đúng": "C. Customer/User"
+  },
+  {
+    "Câu 288": "A new project manager has asked you for advice on creating a work breakdown structure. After you explain the process to her, she asks you what software she should use to create the WBS and what she should do with it when it is completed. You might respond that the picture is not the most valuable result of creating a WBS. The most valuable result of a WBS is:",
+    "Đáp án đúng": "C. Activities"
+  },
+  {
+    "Câu 289": "A project manager may use ____ to make sure the team members clearly know what is included in each of their work packages",
+    "Đáp án đúng": "C. The WBS dictionary"
+  },
+  {
+    "Câu 290": "The project scope statement describes work on a high-level basis. Work packages need to be specific to enable team members to complete their work without gold plating. The product scope does not tell team members what work is assigned to them. The team should have a copy of the schedule, but a schedule does not show them what work is included in each of their work packages. Work packages are described in the WBS dictionary. NOTE: Do not think of the WBS dictionary as a dictionary of terms. Your team member informs you that the test system must be refreshed with your test data before testing can begin. This dependency is:",
+    "Đáp án đúng": "C. Mandatory"
+  },
+  {
+    "Câu 291": "True or False: The critical path is made up by all zero float activities (activities have floats equal to zero) in the project network diagram.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 292": "True or False: The Fast Tracking is the approach to add more resources (labor, overtime, etc.) into the activities to reduce their durations.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 293": "A team member tells you that her work is too creative to provide you with a fixed single estimate for the activity. You both decide to use the average labor hours (from past, similar projects) to develop a prototype. This is an example of which of the following?",
+    "Đáp án đúng": "A. Parametric estimating"
+  },
+  {
+    "Câu 294": "True or False: Earned value integrates schedule, budget and quality and uses monetary values to assess project status.",
+    "Đáp án đúng": "A. False"
+  },
+  {
+    "Câu 295": "The discipline of quality management complements the discipline of project management. Both recognize all but one of the following:",
+    "Đáp án đúng": "C. One-time improvement"
+  },
+  {
+    "Câu 296": "The Process Improvement Plan Is:",
+    "Đáp án đúng": "B. A subsidiary, or component of the project management plan."
+  },
+  {
+    "Câu 297": "Which one is the correct matching of communication methods and the explanations?",
+    "Đáp án đúng": "A. (1)&(a), (2) &(b), (3)&(c)"
+  },
+  {
+    "Câu 298": "During a risk brainstorming session, a team member identifies a risk. This particular risk does not seem to belong to any of the categories in you Risk Breakdown Structure (RBS). How should you respond?",
+    "Đáp án đúng": "D. Record the list in the risk register, discuss potential responses and make a note to update the RBS."
+  },
+  {
+    "Câu 299": "Who might not be your project's stakeholders?",
+    "Đáp án đúng": "F. People that are not impacted by your project"
+  },
+  {
+    "Câu 300": "True or False: The sender is responsible to provide feedback to acknowledge that the sent message has been received and understood. The receiver is responsible to make sure the sent message is clear, complete, and appropriate.",
+    "Đáp án đúng": "A. True"
+  },
+  {
+    "Câu 301": "Which one of these should be the view of conflict?",
+    "Đáp án đúng": "B. Often beneficial"
+  },
+  {
+    "Câu 302": "One way to classify your stakeholders is to use the Power/Interest Grid. If a stakeholder is low interest / high power, what should the Project Manager do?",
+    "Đáp án đúng": "B. Keep satisfied"
+  },
+  {
+    "Câu 303": "True or False: If \"develop online modules\" needs to finish before \"review online modules\" can finish, that is called a finish to finish relationship.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 304": "We discussed three types of matrix organizations, the not mentioned one is:",
+    "Đáp án đúng": "A. Medium Matrix"
+  },
+  {
+    "Câu 305": "True or False: When creating the WBS of the project, Project Manager decided to not include his management tasks into WBS as those tasks will be done by him and he knows well what he has to do in the project.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 306": "True or False: Using top-down estimating techniques when activity durations or resource quantities are uncertain.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 307": "True or False: The term resources refers to not only people, it also includes money or materials or equipment.",
+    "Đáp án đúng": "True"
+  },
+  {
+    "Câu 308": "True or False: The primary output from the identification of risks is the stakeholder register.",
+    "Đáp án đúng": "False"
+  },
+  {
+    "Câu 309": "True or False: A Work Breakdown Structure (WBS) is a deliverable oriented hierarchical decomposition of the work to be executed just by the Project Manager.",
+    "Đáp án đúng": "A. False"
+  },
+  {
+    "Câu 310": "If the response you choose is to exploit a risk this means that:",
+    "Đáp án đúng": "B. You add steps to your plans to make certain the opportunity is captured."
+  },
+  {
+    "Câu 311": "You and your team have identified a risk that is a threat to your ability to successfully meet project objectives. The risk involves team members from your company performing work which requires training, certification, and many hours of experience. You have one newly certified team member and others who are still in training. Which do you think is your best response to this risk?",
+    "Đáp án đúng": "D. You have budget to hire external resources and there is a vendor you can hire who specialized in this type of work, hire them."
+  }
+]
