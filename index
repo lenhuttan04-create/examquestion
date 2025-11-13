@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Exam UI - Classic Layout</title>
+<style>
+  :root{--bg:#f3f4f6;--panel:#fff;--muted:#666;--accent:#c62828;--divider:#c62828}
+  html,body{height:100%;margin:0;font-family:Inter,Arial,sans-serif;background:var(--bg);color:#111}
+  .wrap{height:100vh;display:flex;align-items:stretch;justify-content:center;padding:18px}
+  .frame{width:95%;height:92%;background:#fff;border-radius:6px;box-shadow:0 6px 24px rgba(0,0,0,.08);position:relative;overflow:hidden}
+  /* left answers column */
+  .leftcol{width:80px;background:#fafafa;border-right:1px solid #eee;position:absolute;left:0;top:0;bottom:0;padding:12px;box-sizing:border-box}
+  .leftcol .label{font-weight:600;margin-bottom:6px;color:var(--muted);font-size:13px}
+  .leftcol .choices{display:flex;flex-direction:column;gap:10px;margin-top:8px}
+  .leftcol .choices label{display:flex;align-items:center;gap:8px;cursor:pointer}
+  .leftcol input[type="radio"]{width:18px;height:18px}
+  .leftcol .navTiny{margin-top:18px;display:flex;flex-direction:column;gap:6px}
+  .leftcol button{padding:6px 8px;border:1px solid #ddd;background:#fff;border-radius:4px;cursor:pointer}
+  /* big center panel */
+  .center{position:absolute;left:100px;right:380px;top:0;bottom:0;padding:18px;box-sizing:border-box}
+  .center .stage{height:100%;background:#fafafa;border-radius:6px;border:1px solid #eee;position:relative;overflow:auto;padding:18px}
+  /* red divider line */
+  .divider{position:absolute;left:calc(100% - 380px - 10px);top:18px;bottom:18px;width:6px;background:var(--divider);border-radius:4px}
+  /* right small question box */
+  .rightcol{position:absolute;right:0;top:0;bottom:0;width:380px;padding:18px;box-sizing:border-box;background:linear-gradient(#fff,#fff)}
+  .qhead{font-size:20px;font-weight:700;margin-bottom:8px}
+  .qmeta{color:var(--muted);margin-bottom:12px}
+  .qbox{background:#fff;border:1px solid #eee;padding:12px;border-radius:6px;min-height:160px;overflow:auto}
+  .answerlist{margin-top:12px;display:flex;flex-direction:column;gap:8px}
+  .answerlist label{display:flex;gap:8px;align-items:flex-start;padding:8px;border-radius:6px;background:#fafafa;border:1px solid #f0f0f0;cursor:pointer}
+  .answerlist input{margin-top:4px}
+  /* overlay arrows */
+  .arrow{position:absolute;top:50%;transform:translateY(-50%);width:48px;height:48px;border-radius:24px;background:rgba(0,0,0,.05);display:flex;align-items:center;justify-content:center;cursor:pointer}
+  .arrow.left{left:12px}
+  .arrow.right{right:12px}
+  .arrow svg{width:22px;height:22px;fill:#666}
+  /* bottom-right small timer */
+  .timerBox{position:absolute;right:12px;bottom:12px;background:#0f1724;color:#fff;padding:8px 10px;border-radius:6px;font-weight:700;box-shadow:0 4px 12px rgba(0,0,0,.12)}
+  /* responsive */
+  @media(max-width:980px){
+    .leftcol{display:none}
+    .center{left:12px;right:12px}
+    .divider{display:none}
+    .rightcol{position:relative;width:auto}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="frame" id="frame">
+    <aside class="leftcol">
+      <div class="label">Answer</div>
+      <div class="choices">
+        <label><input type="radio" name="leftchoice" data-idx="0"> A</label>
+        <label><input type="radio" name="leftchoice" data-idx="1"> B</label>
+        <label><input type="radio" name="leftchoice" data-idx="2"> C</label>
+        <label><input type="radio" name="leftchoice" data-idx="3"> D</label>
+      </div>
+      <div class="navTiny">
+        <button id="btnBack">Back</button>
+        <button id="btnNext">Next</button>
+      </div>
+    </aside>
+
+    <main class="center">
+      <div class="stage" id="stageArea">
+        <!-- big blank area / passage area -->
+        <div style="color:#aaa">Khu vực passage / nội dung lớn — hiển thị passage, hình ảnh hoặc trắng như mẫu.</div>
+      </div>
+      <div class="divider" aria-hidden="true"></div>
+      <div class="arrow left" id="arrowLeft" title="Previous"><svg viewBox="0 0 24 24"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg></div>
+      <div class="arrow right" id="arrowRight" title="Next"><svg viewBox="0 0 24 24"><path d="M8.59 16.59 10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg></div>
+    </main>
+
+    <aside class="rightcol">
+      <div class="qhead">Câu hỏi <span id="curNo">1</span>/<span id="totalNo">0</span></div>
+      <div class="qmeta">Thời gian còn: <strong id="timer">30:00</strong></div>
+      <div class="qbox" id="qbox">
+        <div id="qtext">(Câu hỏi sẽ hiển thị ở đây)</div>
+        <div class="answerlist" id="alist"></div>
+      </div>
+      <div style="margin-top:12px;display:flex;gap:8px;justify-content:space-between">
+        <button id="btnMark">Đánh dấu</button>
+        <div>
+          <button id="btnStart">Bắt đầu đề</button>
+          <button id="btnSubmit">Nộp bài</button>
+        </div>
+      </div>
+    </aside>
+
+    <div class="timerBox" id="miniTimer">30:00</div>
+
+  </div>
+</div>
+
+<script>
+/* Simple app logic:
+ - Loads /questions.json from same origin if exists, else uses a short sample.
+ - Selects N questions (EXAM_SIZE).
+ - Renders question on right panel; left radio buttons also map to answers.
+ - Prev/Next arrows & buttons navigate; timer counts down; Submit shows score.
+*/
+const EXAM_SIZE = 40;
+const EXAM_MINUTES = 30;
+let bank = [], exam = [], answers = {}, curIndex = 0, timeLeft = EXAM_MINUTES*60, timerId=null;
+
+function pad(n){return n.toString().padStart(2,'0')}
+function formatTime(s){return pad(Math.floor(s/60))+':'+pad(s%60)}
+function renderQuestion(i){
+  if(!exam[i]) return;
+  curIndex = i;
+  document.getElementById('curNo').textContent = i+1;
+  document.getElementById('totalNo').textContent = exam.length;
+  document.getElementById('qtext').textContent = exam[i].q || '(Không có nội dung)';
+  const al = document.getElementById('alist'); al.innerHTML='';
+  (exam[i].choices || []).forEach((c, idx)=>{
+    const id = 'opt_'+idx;
+    const lab = document.createElement('label');
+    lab.style.display='block'; lab.style.padding='8px'; lab.style.marginBottom='6px'; lab.style.cursor='pointer';
+    lab.innerHTML = `<input type="radio" name="ans" value="${idx}" ${answers[exam[i].id]===idx?'checked':''}> <strong>${String.fromCharCode(65+idx)}</strong>. ${c}`;
+    lab.onclick = ()=>{ answers[exam[i].id]=idx; updateLeftRadios(); };
+    al.appendChild(lab);
+  });
+  updateLeftRadios();
+}
+function updateLeftRadios(){
+  // highlight left radio according to current selection (if exists)
+  const q = exam[curIndex];
+  const sel = q && answers[q.id];
+  document.querySelectorAll('.leftcol input[type=radio]').forEach(inp=>{ inp.checked = false; });
+  if(typeof sel === 'number'){
+    const left = document.querySelector('.leftcol input[data-idx="'+sel+'"]');
+    if(left) left.checked = true;
+  }
+}
+
+async function loadBank(){
+  try{
+    const res = await fetch('/questions.json', {cache:'no-store'});
+    if(!res.ok) throw new Error('no json');
+    const data = await res.json();
+    // normalize: item should have id, q, choices(array), answer (index)
+    bank = data.map((it, i)=>({
+      id: it.id || String(i+1),
+      q: it.q || it.question || '',
+      choices: Array.isArray(it.choices)? it.choices : (it.choices ? Object.values(it.choices) : []),
+      answer: (typeof it.answer === 'string' ? (it.answer.toUpperCase().charCodeAt(0)-65) : it.answer)
+    }));
+    console.log('bank', bank.length);
+  }catch(e){
+    console.log('No questions.json found, using 3-sample fallback', e);
+    bank = [
+      {id:'1', q:'Thủ đô của Việt Nam?', choices:['Hà Nội','TP HCM','Đà Nẵng','Huế'], answer:0},
+      {id:'2', q:'2 + 2 = ?', choices:['3','4','5','6'], answer:1},
+      {id:'3', q:'Màu cờ VN?', choices:['Đỏ sao vàng','Xanh trắng','Đỏ trắng','Vàng xanh'], answer:0}
+    ];
+  }
+}
+
+function prepareExam(){
+  const pool = [...bank];
+  // shuffle
+  for(let i=pool.length-1;i>0;i--){
+    const r = Math.floor(Math.random()*(i+1)); [pool[i],pool[r]]=[pool[r],pool[i]];
+  }
+  exam = pool.slice(0, Math.min(EXAM_SIZE, pool.length));
+  answers = {}; curIndex=0;
+  renderQuestion(0);
+  document.getElementById('miniTimer').textContent = formatTime(timeLeft);
+}
+
+function startTimer(){
+  if(timerId) clearInterval(timerId);
+  timeLeft = EXAM_MINUTES*60;
+  document.getElementById('miniTimer').textContent = formatTime(timeLeft);
+  timerId = setInterval(()=>{
+    timeLeft--; document.getElementById('miniTimer').textContent = formatTime(timeLeft);
+    document.getElementById('timer').textContent = formatTime(timeLeft);
+    if(timeLeft<=0){ clearInterval(timerId); alert('Hết giờ — Nộp bài tự động'); submitExam(); }
+  },1000);
+}
+
+function submitExam(){
+  if(!exam.length) return alert('Chưa có đề');
+  clearInterval(timerId);
+  let ok=0;
+  for(let i=0;i<exam.length;i++){
+    const q=exam[i]; if(typeof q.answer === 'number' && answers[q.id]===q.answer) ok++;
+  }
+  alert('Điểm: '+ok+' / '+exam.length);
+}
+
+document.getElementById('arrowLeft').onclick = ()=>{ if(curIndex>0) renderQuestion(curIndex-1); }
+document.getElementById('arrowRight').onclick = ()=>{ if(curIndex<exam.length-1) renderQuestion(curIndex+1); }
+document.getElementById('btnBack').onclick = ()=>{ if(curIndex>0) renderQuestion(curIndex-1); }
+document.getElementById('btnNext').onclick = ()=>{ if(curIndex<exam.length-1) renderQuestion(curIndex+1); }
+document.querySelectorAll('.leftcol input[type=radio]').forEach(inp=>{
+  inp.addEventListener('change', ()=>{ const idx=parseInt(inp.dataset.idx); if(exam[curIndex] && exam[curIndex].choices[idx]!==undefined){ answers[exam[curIndex].id]=idx; updateLeftRadios(); }});
+});
+document.getElementById('btnStart').onclick = ()=>{ prepareExam(); startTimer(); };
+document.getElementById('btnSubmit').onclick = ()=>{ if(confirm('Bạn có muốn nộp không?')) submitExam(); };
+
+(async()=>{ await loadBank(); document.getElementById('totalNo').textContent = Math.min(EXAM_SIZE, bank.length); })();
+
+</script>
+</body>
+</html>
